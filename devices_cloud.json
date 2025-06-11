@@ -50,40 +50,6 @@
       "customSvgOffset": 48
     },
     {
-      "id": "dev1749323034091949",
-      "name": "ネットワークハブ",
-      "model": "*****",
-      "type": "Network Hub",
-      "shape": "デフォルト",
-      "ioCount": 0,
-      "manufacturer": "ELECOM",
-      "createdAt": "2025/06/08 04:03",
-      "updatedAt": "2025/06/08 04:03",
-      "outputs": [
-        {
-          "name": "",
-          "type": "RJ45",
-          "showPortTypePresets": false
-        }
-      ],
-      "inputs": [
-        {
-          "name": "",
-          "type": "RJ45",
-          "showPortTypePresets": false
-        },
-        {
-          "name": "",
-          "type": "RJ45",
-          "showPortTypePresets": false
-        }
-      ],
-      "notes": [],
-      "svgWidth": 200,
-      "svgHeight": 200,
-      "customSvgOffset": 30
-    },
-    {
       "id": "dev1749317947016579",
       "name": "MTR用スマートデバイス",
       "model": "ThinkSmart Core",
