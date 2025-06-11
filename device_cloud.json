@@ -1,0 +1,127 @@
+{
+  "createdAt": "2025/05/01 09:00",
+  "lastUpdated": "2025/05/05 12:00",
+  "devices": [
+    {
+      "id": "dev1",
+      "name": "ノートPC",
+      "model": "CF-SV9",
+      "type": "PC",
+      "shape": "デフォルト",
+      "ioCount": 1,
+      "manufacturer": "Panasonic",
+      "createdAt": "2025/05/01 09:00",
+      "updatedAt": "2025/05/05 12:00",
+      "outputs": [
+        { "name": "HDMI", "type": "HDMI" },
+        { "name": "VGA", "type": "VGA" }
+      ],
+      "inputs": []
+    },
+    {
+      "id": "dev2",
+      "name": "液晶プロジェクタ",
+      "model": "PT-VMZ61J",
+      "type": "プロジェクタ",
+      "shape": "デフォルト",
+      "ioCount": 10,
+      "manufacturer": "Panasonic",
+      "createdAt": "2025/05/02 10:00",
+      "updatedAt": "2025/05/05 12:00",
+      "outputs": [
+        { "name": "COMPUTER1", "type": "VGA" },
+        { "name": "Audio", "type": "STmini" }
+      ],
+      "inputs": [
+        { "name": "HDMI1", "type": "HDMI" },
+        { "name": "HDMI2", "type": "HDMI" },
+        { "name": "COMPUTER1", "type": "VGA" },
+        { "name": "COMPUTER2", "type": "VGA" },
+        { "name": "Audio1", "type": "STmini" },
+        { "name": "Audio2", "type": "STmini" },
+        { "name": "DIGITAL LINK", "type": "RJ45" },
+        { "name": "LAN", "type": "RJ45" },
+        { "name": "SERIAL", "type": "RS232C" },
+        { "name": "USB", "type": "USB-A" }
+      ]
+    },
+    {
+      "id": "dev3",
+      "name": "グループポートサンプル",
+      "model": "XX-XXX",
+      "type": "スイッチャー",
+      "shape": "デフォルト",
+      "ioCount": 1,
+      "manufacturer": "IMAGENICS",
+      "outputs": [
+        {
+          "groupType": "number",
+          "groupLabel": "HDMI",
+          "ports": [
+            { "label": "1", "type": "HDMI" },
+            { "label": "2", "type": "HDMI" },
+            { "label": "3", "type": "HDMI" }
+          ]
+        },
+        {
+          "groupType": "number",
+          "groupLabel": "DP",
+          "ports": [
+            { "label": "1", "type": "DP" },
+            { "label": "2", "type": "DP" }
+          ]
+        },
+        {
+          "groupType": "name",
+          "groupLabel": "1",
+          "ports": [
+            { "label": "HDMI", "type": "HDMI" },
+            { "label": "SDI", "type": "BNC" },
+            { "label": "DVI", "type": "DVI" }
+          ]
+        },
+        { "name": "COMPUTER1", "type": "VGA" },
+        { "name": "Audio", "type": "STmini" }
+      ],
+      "inputs": [
+        {
+          "groupType": "number",
+          "groupLabel": "HDMI",
+          "ports": [
+            { "label": "1", "type": "HDMI" },
+            { "label": "2", "type": "HDMI" },
+            { "label": "3", "type": "HDMI" }
+          ]
+        },
+        {
+          "groupType": "number",
+          "groupLabel": "DP",
+          "ports": [
+            { "label": "1", "type": "DP" },
+            { "label": "2", "type": "DP" }
+          ]
+        },
+        {
+          "groupType": "name",
+          "groupLabel": "1",
+          "ports": [
+            { "label": "HDMI", "type": "HDMI" },
+            { "label": "SDI", "type": "BNC" },
+            { "label": "DVI", "type": "DVI" }
+          ]
+        },
+        {
+          "groupType": "name",
+          "groupLabel": "2",
+          "ports": [
+            { "label": "HDMI", "type": "HDMI" },
+            { "label": "SDI", "type": "SDI" }
+          ]
+        },
+        { "name": "LAN", "type": "RJ45" },
+        { "name": "SERIAL", "type": "RS232C" },
+        { "name": "USB", "type": "USB-A" }
+      ]
+    }
+  ]
+}
