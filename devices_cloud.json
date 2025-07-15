@@ -7,9 +7,9 @@
       "type": "Outlet",
       "shape": "コンセント",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "(特型)",
       "createdAt": "2025/06/11 18:25",
-      "updatedAt": "2025/07/15 19:43:35",
+      "updatedAt": "2025/07/15 19:43:46",
       "outputs": [
         {
           "name": "AC100V",
@@ -872,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T10:43:35.637Z"
+  "lastUpdated": "2025-07-15T10:43:46.773Z"
 }
