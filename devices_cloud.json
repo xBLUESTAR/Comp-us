@@ -700,6 +700,89 @@
       "customSvgOffset": 70,
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78"
+    },
+    {
+      "id": "cloud-1752570741092",
+      "name": "音声コネクタテスト",
+      "model": "*****",
+      "type": "DSP",
+      "shape": "デフォルト",
+      "ioCount": 0,
+      "manufacturer": "(特型)",
+      "createdAt": "2025/07/11 12:55",
+      "updatedAt": "2025/07/15 18:12:21",
+      "outputs": [
+        {
+          "name": "EURO",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "miniST",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "RCA",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "Term",
+          "type": "Term",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "TRS",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "XLR",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ],
+      "inputs": [
+        {
+          "name": "EURO",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "miniST",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "RCA",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "Term",
+          "type": "Term",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "TRS",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "name": "XLR",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ],
+      "createdBy": "user-86afbf78",
+      "updatedBy": "user-86afbf78",
+      "svgWidth": 200,
+      "svgHeight": 200,
+      "customSvgOffset": 30,
+      "notes": [],
+      "addedToCloudAt": "2025/07/15 18:12:21",
+      "addedToCloudBy": "user-86afbf78"
     }
   ],
   "shapes": [
@@ -789,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T09:11:45.636Z"
+  "lastUpdated": "2025-07-15T09:12:21.092Z"
 }
