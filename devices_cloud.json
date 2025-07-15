@@ -4,12 +4,12 @@
       "id": "dev1749633917241388",
       "name": "AC100V",
       "model": "",
-      "type": "",
+      "type": "Outlet",
       "shape": "コンセント",
       "ioCount": 0,
-      "manufacturer": "(特型)",
+      "manufacturer": "",
       "createdAt": "2025/06/11 18:25",
-      "updatedAt": "2025/07/15 19:43:00",
+      "updatedAt": "2025/07/15 19:43:35",
       "outputs": [
         {
           "name": "AC100V",
@@ -872,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T10:43:00.791Z"
+  "lastUpdated": "2025-07-15T10:43:35.637Z"
 }
