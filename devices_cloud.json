@@ -9,7 +9,7 @@
       "ioCount": 0,
       "manufacturer": "(特型)",
       "createdAt": "2025/06/11 18:25",
-      "updatedAt": "2025/07/15 19:35:56",
+      "updatedAt": "2025/07/15 19:43:00",
       "outputs": [
         {
           "name": "AC100V",
@@ -872,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T10:35:56.290Z"
+  "lastUpdated": "2025-07-15T10:43:00.791Z"
 }
