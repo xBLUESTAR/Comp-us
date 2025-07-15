@@ -7,9 +7,9 @@
       "type": "",
       "shape": "コンセント",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "(特型)",
       "createdAt": "2025/06/11 18:25",
-      "updatedAt": "2025/07/15 17:51:17",
+      "updatedAt": "2025/07/15 19:35:56",
       "outputs": [
         {
           "name": "AC100V",
@@ -25,7 +25,7 @@
       "svgHeight": 120,
       "customSvgOffset": 50,
       "createdBy": "user-00000000",
-      "updatedBy": "user-00000000",
+      "updatedBy": "user-86afbf78",
       "addedToCloudAt": "2025/07/15 17:34:46",
       "addedToCloudBy": "user-86afbf78"
     },
@@ -872,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T10:28:27.191Z"
+  "lastUpdated": "2025-07-15T10:35:56.290Z"
 }
