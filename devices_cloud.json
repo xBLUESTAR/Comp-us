@@ -710,7 +710,7 @@
       "ioCount": 0,
       "manufacturer": "(特型)",
       "createdAt": "2025/07/11 12:55",
-      "updatedAt": "2025/07/15 18:00:36",
+      "updatedAt": "2025/07/15 18:02:13",
       "outputs": [
         {
           "name": "EURO",
@@ -872,5 +872,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-15T09:00:36.471Z"
+  "lastUpdated": "2025-07-15T09:02:13.838Z"
 }
