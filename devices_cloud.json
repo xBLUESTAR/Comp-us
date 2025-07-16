@@ -1055,6 +1055,125 @@
       "updatedBy": "user-86afbf78",
       "addedToCloudAt": "2025/07/16 18:50:36",
       "addedToCloudBy": "user-86afbf78"
+    },
+    {
+      "id": "cloud-1752659442256",
+      "name": "HDMI セレクター",
+      "model": "US-82",
+      "type": "Switcher",
+      "shape": "デフォルト",
+      "ioCount": 0,
+      "manufacturer": "IMAGENICS",
+      "createdAt": "2025/07/03 16:02",
+      "updatedAt": "2025/07/16 18:50:42",
+      "outputs": [
+        {
+          "groupType": "number",
+          "groupLabel": "HDMI",
+          "ports": [
+            {
+              "label": "1",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "2",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            }
+          ]
+        },
+        {
+          "groupType": "number",
+          "groupLabel": "AUDIO 1",
+          "ports": [
+            {
+              "label": "L",
+              "type": "RCA",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "R",
+              "type": "RCA",
+              "showPortTypePresets": false
+            }
+          ]
+        },
+        {
+          "groupType": "number",
+          "groupLabel": "AUDIO 2",
+          "ports": [
+            {
+              "label": "L",
+              "type": "RCA",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "R",
+              "type": "RCA",
+              "showPortTypePresets": false
+            }
+          ]
+        }
+      ],
+      "inputs": [
+        {
+          "groupType": "number",
+          "groupLabel": "HDMI",
+          "ports": [
+            {
+              "label": "1",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "2",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "3",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "4",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "5",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "6",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "7",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            },
+            {
+              "label": "8",
+              "type": "HDMI",
+              "showPortTypePresets": false
+            }
+          ]
+        },
+        {
+          "name": "LAN",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ],
+      "url": "https://imagenics.co.jp/products/us-82/",
+      "createdBy": "user-86afbf78",
+      "updatedBy": "user-86afbf78",
+      "addedToCloudAt": "2025/07/16 18:50:42",
+      "addedToCloudBy": "user-86afbf78"
     }
   ],
   "shapes": [
@@ -1144,5 +1263,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-16T09:50:36.921Z"
+  "lastUpdated": "2025-07-16T09:50:42.256Z"
 }
