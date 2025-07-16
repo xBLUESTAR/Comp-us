@@ -787,13 +787,13 @@
     {
       "id": "cloud-1752659411785",
       "name": "HDMI マトリックススイッチャー",
-      "model": "UHX-3232",
+      "model": "UHX-1616",
       "type": "Switcher",
       "shape": "デフォルト",
       "ioCount": 0,
       "manufacturer": "IMAGENICS",
       "createdAt": "2025/07/03 16:02",
-      "updatedAt": "2025/07/16 18:50:11",
+      "updatedAt": "2025/07/16 18:50:22",
       "outputs": [
         {
           "name": "",
@@ -880,111 +880,7 @@
         },
         {
           "groupType": "number",
-          "groupLabel": "HDMI 13-16",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 17-20",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 21-24",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 25-28",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 29-32",
+          "groupLabel": "HDMI 13-26",
           "ports": [
             {
               "label": "+0",
@@ -1115,110 +1011,6 @@
           ]
         },
         {
-          "groupType": "number",
-          "groupLabel": "HDMI 17-20",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 21-24",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 25-28",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI 29-32",
-          "ports": [
-            {
-              "label": "+0",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "+3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
           "name": "RS-232C",
           "type": "D-SUB",
           "showPortTypePresets": false
@@ -1229,7 +1021,7 @@
           "showPortTypePresets": false
         }
       ],
-      "url": "https://imagenics.co.jp/products/uhx-3232/",
+      "url": "https://imagenics.co.jp/products/uhx-1616/",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "svgWidth": 200,
@@ -1327,5 +1119,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-16T09:50:11.785Z"
+  "lastUpdated": "2025-07-16T09:50:22.742Z"
 }
