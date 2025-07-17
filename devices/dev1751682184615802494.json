@@ -1,0 +1,156 @@
+{
+  "id": "dev1751682184615802494",
+  "name": "HDMI シームレススイッチャー (IMG.LINK)",
+  "model": "SL-61C",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/05 11:01",
+  "updatedAt": "2025/07/17 13:10:08",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "1A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "1B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "HDMI 1C",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "DVI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "DVI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "DVI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "Analog RGB",
+      "ports": [
+        {
+          "label": "5",
+          "type": "VGA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "VGA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "1",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "miniST",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "miniST",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "AUX AUDIO",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/sl-61c/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:10:08",
+  "addedToCloudBy": "user-86afbf78"
+}
