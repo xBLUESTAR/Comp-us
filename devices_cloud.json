@@ -1629,7 +1629,7 @@
       "ioCount": 0,
       "manufacturer": "IMAGENICS",
       "createdAt": "2025/07/03 16:02",
-      "updatedAt": "2025/07/17 09:07:13",
+      "updatedAt": "2025/07/17 09:07:19",
       "outputs": [
         {
           "name": "HDMI 1",
@@ -1938,5 +1938,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-17T00:07:13.227Z"
+  "lastUpdated": "2025-07-17T00:07:19.920Z"
 }
