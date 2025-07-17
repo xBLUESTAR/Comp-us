@@ -1,0 +1,122 @@
+{
+  "id": "cloud-1752714908591",
+  "name": "ユニバーサルスイッチャー",
+  "model": "UCX-2x1-HC40",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "Lightware",
+  "createdAt": "2025/06/05 20:58",
+  "updatedAt": "2025/07/17 10:15:08",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI"
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "USB-C IN 1",
+      "type": "USB-C"
+    },
+    {
+      "groupType": "name",
+      "groupLabel": "IN 2",
+      "ports": [
+        {
+          "label": "USB-B",
+          "type": "USB-B",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "HDMI",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "USB-A",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "ETHERNET",
+      "ports": [
+        {
+          "label": "1",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232",
+      "type": "EURO"
+    },
+    {
+      "name": "OCS SENSOR",
+      "type": "EURO"
+    },
+    {
+      "name": "GPIO",
+      "type": "EURO"
+    }
+  ],
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 70,
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 10:15:08",
+  "addedToCloudBy": "user-86afbf78"
+}
