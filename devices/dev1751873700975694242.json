@@ -1,0 +1,89 @@
+{
+  "id": "dev1751873700975694242",
+  "name": "HDMI フレームシンクロナイザ",
+  "model": "RS-U15",
+  "type": "Converter",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/07 16:35",
+  "updatedAt": "2025/07/17 13:33:13",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "name": "REF",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/rs-u15/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:33:13",
+  "addedToCloudBy": "user-86afbf78"
+}
