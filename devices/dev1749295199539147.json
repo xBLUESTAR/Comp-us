@@ -1,0 +1,96 @@
+{
+  "id": "dev1749295199539147",
+  "name": "遠隔会議用プロセッサー",
+  "model": "RM-CR",
+  "type": "DSP",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "YAMAHA",
+  "createdAt": "2025/06/07 20:19",
+  "updatedAt": "2025/07/17 10:39:58",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "Speaker",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUX",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "AUDIO (USB)",
+      "type": "USB-B",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "MIC 1",
+      "type": "XLR"
+    },
+    {
+      "name": "MIC 2",
+      "type": "XLR"
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUX",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "type": "RJ45"
+    },
+    {
+      "name": "Network",
+      "type": "RJ45"
+    },
+    {
+      "name": "Dante/PoE",
+      "type": "RJ45"
+    }
+  ],
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 10:39:58",
+  "addedToCloudBy": "user-86afbf78"
+}
