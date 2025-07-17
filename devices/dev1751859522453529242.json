@@ -1,0 +1,88 @@
+{
+  "id": "dev1751859522453529242",
+  "name": "SDI セレクター",
+  "model": "HS-42",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/03 16:02",
+  "updatedAt": "2025/07/17 12:57:40",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "1B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "2A",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2B",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/hs-42/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 12:57:40",
+  "addedToCloudBy": "user-86afbf78"
+}
