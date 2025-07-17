@@ -1,0 +1,204 @@
+{
+  "id": "dev1751680389842708409",
+  "name": "HDMI シームレススイッチャー (IMG.LINK)",
+  "model": "SL-U61/IL",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/03 16:02",
+  "updatedAt": "2025/07/17 12:56:48",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "IMG.LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "6 Analog RGB",
+      "type": "VGA",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 3",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 4",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 5",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 6",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUX AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/sl-u61-il/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 12:56:48",
+  "addedToCloudBy": "user-86afbf78"
+}
