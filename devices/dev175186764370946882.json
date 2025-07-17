@@ -1,0 +1,682 @@
+{
+  "id": "dev175186764370946882",
+  "name": "SDI マトリックスセレクター",
+  "model": "HS-6464",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/07 14:54",
+  "updatedAt": "2025/07/17 13:32:24",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "11",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "12",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "13",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "14",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "15",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "16",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "17",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "18",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "19",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "20",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "21",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "22",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "23",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "24",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "25",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "26",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "27",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "28",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "29",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "30",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "31",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "32",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "33",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "34",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "35",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "36",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "37",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "38",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "39",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "40",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "41",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "42",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "43",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "44",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "45",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "46",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "47",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "48",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "49",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "50",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "51",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "52",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "53",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "54",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "55",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "56",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "57",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "58",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "59",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "60",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "61",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "62",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "63",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "64",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "11",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "12",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "13",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "14",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "15",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "16",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "17",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "18",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "19",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "20",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "21",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "22",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "23",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "24",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "25",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "26",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "27",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "28",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "29",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "30",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "31",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "32",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "33",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "34",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "35",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "36",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "37",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "38",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "39",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "40",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "41",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "42",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "43",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "44",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "45",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "46",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "47",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "48",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "49",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "50",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "51",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "52",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "53",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "54",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "55",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "56",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "57",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "58",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "59",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "60",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "61",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "62",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "63",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "64",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/hs-6464/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:32:24",
+  "addedToCloudBy": "user-86afbf78"
+}
