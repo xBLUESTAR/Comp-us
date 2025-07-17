@@ -1,0 +1,65 @@
+{
+  "id": "dev1749294226262129",
+  "name": "USBスイッチャー",
+  "model": "SBUSB SW4",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "ScreenBeam",
+  "createdAt": "2025/06/07 20:03",
+  "updatedAt": "2025/07/17 10:39:26",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HOST",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "USB",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 10:39:26",
+  "addedToCloudBy": "user-86afbf78"
+}
