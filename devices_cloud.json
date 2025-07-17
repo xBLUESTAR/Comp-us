@@ -1059,45 +1059,18 @@
     {
       "id": "cloud-1752659442256",
       "name": "HDMI セレクター",
-      "model": "US-42",
+      "model": "CRO-US31",
       "type": "Switcher",
       "shape": "デフォルト",
       "ioCount": 0,
       "manufacturer": "IMAGENICS",
       "createdAt": "2025/07/03 16:02",
-      "updatedAt": "2025/07/16 18:50:47",
+      "updatedAt": "2025/07/17 09:01:42",
       "outputs": [
         {
-          "groupType": "number",
-          "groupLabel": "HDMI",
-          "ports": [
-            {
-              "label": "1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "AUDIO",
-          "ports": [
-            {
-              "label": "L",
-              "type": "RCA",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "R",
-              "type": "RCA",
-              "showPortTypePresets": false
-            }
-          ]
+          "name": "HDMI",
+          "type": "HDMI",
+          "showPortTypePresets": false
         }
       ],
       "inputs": [
@@ -1119,47 +1092,11 @@
               "label": "3",
               "type": "HDMI",
               "showPortTypePresets": false
-            },
-            {
-              "label": "4",
-              "type": "HDMI",
-              "showPortTypePresets": false
             }
           ]
-        },
-        {
-          "groupType": "number",
-          "groupLabel": "AUDIO",
-          "ports": [
-            {
-              "label": "1",
-              "type": "miniST",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "2",
-              "type": "miniST",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "3",
-              "type": "miniST",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "4",
-              "type": "miniST",
-              "showPortTypePresets": false
-            }
-          ]
-        },
-        {
-          "name": "LAN",
-          "type": "RJ45",
-          "showPortTypePresets": false
         }
       ],
-      "url": "https://imagenics.co.jp/products/us-42/",
+      "url": "https://imagenics.co.jp/products/cro-us31/",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "addedToCloudAt": "2025/07/16 18:50:42",
@@ -1362,5 +1299,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-16T23:58:00.071Z"
+  "lastUpdated": "2025-07-17T00:01:42.264Z"
 }
