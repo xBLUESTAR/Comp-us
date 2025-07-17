@@ -1,0 +1,112 @@
+{
+  "id": "dev1751860551861177602",
+  "name": "SDI マトリックススイッチャー",
+  "model": "ISA-U74",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/07 12:55",
+  "updatedAt": "2025/07/17 13:31:29",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "REF THROU",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "SDI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "REF IN",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-422A",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/isa-u74/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:31:29",
+  "addedToCloudBy": "user-86afbf78"
+}
