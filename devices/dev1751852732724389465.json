@@ -1,0 +1,427 @@
+{
+  "id": "dev1751852732724389465",
+  "name": "HDMI シームレススイッチャー (IMG.LINK)",
+  "model": "SL-104C",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/05 11:01",
+  "updatedAt": "2025/07/17 13:31:14",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "1A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "1B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "HDMI 1C",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "2A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "HDMI 2C",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "3A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "HDMI 3C",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "4A",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4B",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "HDMI 4C",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 3",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 4",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "DVI",
+      "ports": [
+        {
+          "label": "7",
+          "type": "DVI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "DVI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "Analog RGB",
+      "ports": [
+        {
+          "label": "9",
+          "type": "VGA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "VGA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 3",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 4",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 5",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 6",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 7",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 8",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 9",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO 10",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO AUX",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "lAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/sl-104c/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:31:14",
+  "addedToCloudBy": "user-86afbf78"
+}
