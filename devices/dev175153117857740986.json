@@ -1,0 +1,194 @@
+{
+  "id": "dev175153117857740986",
+  "name": "HDMI マトリックススイッチャー(FS)",
+  "model": "URS-1609",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/03 16:02",
+  "updatedAt": "2025/07/17 12:55:33",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "　HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "11",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "12",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "13",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "14",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "15",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "16",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/urs-1609/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 12:55:33",
+  "addedToCloudBy": "user-86afbf78"
+}
