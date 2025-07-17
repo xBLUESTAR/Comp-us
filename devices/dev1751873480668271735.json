@@ -1,0 +1,71 @@
+{
+  "id": "dev1751873480668271735",
+  "name": "HDMI フレームシンクロナイザ",
+  "model": "RU-21",
+  "type": "Converter",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/07 16:31",
+  "updatedAt": "2025/07/17 13:33:08",
+  "outputs": [
+    {
+      "name": "HDMI A",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "HDMI B",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI 1",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "A. THROU 1",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "HDMI 2",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "A. THROU 2",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/ru-21/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:33:08",
+  "addedToCloudBy": "user-86afbf78"
+}
