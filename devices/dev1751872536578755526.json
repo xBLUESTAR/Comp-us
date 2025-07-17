@@ -1,0 +1,71 @@
+{
+  "id": "dev1751872536578755526",
+  "name": "HDMI PinP アダプター",
+  "model": "PIP-U2",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/07 16:15",
+  "updatedAt": "2025/07/17 13:32:59",
+  "outputs": [
+    {
+      "name": "HDMI A",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "HDMI B",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI 1",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "A. THROU 1",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "HDMI 2",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "A. THROU 2",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/pip-u2/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 13:32:59",
+  "addedToCloudBy": "user-86afbf78"
+}
