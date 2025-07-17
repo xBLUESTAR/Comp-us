@@ -785,52 +785,6 @@
       "addedToCloudBy": "user-86afbf78"
     },
     {
-      "id": "cloud-1752659442256",
-      "name": "HDMI セレクター",
-      "model": "CRO-US31",
-      "type": "Switcher",
-      "shape": "デフォルト",
-      "ioCount": 0,
-      "manufacturer": "IMAGENICS",
-      "createdAt": "2025/07/03 16:02",
-      "updatedAt": "2025/07/17 09:01:42",
-      "outputs": [
-        {
-          "name": "HDMI",
-          "type": "HDMI",
-          "showPortTypePresets": false
-        }
-      ],
-      "inputs": [
-        {
-          "groupType": "number",
-          "groupLabel": "HDMI",
-          "ports": [
-            {
-              "label": "1",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "2",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            },
-            {
-              "label": "3",
-              "type": "HDMI",
-              "showPortTypePresets": false
-            }
-          ]
-        }
-      ],
-      "url": "https://imagenics.co.jp/products/cro-us31/",
-      "createdBy": "user-86afbf78",
-      "updatedBy": "user-86afbf78",
-      "addedToCloudAt": "2025/07/16 18:50:42",
-      "addedToCloudBy": "user-86afbf78"
-    },
-    {
       "id": "cloud-1752710513923",
       "name": "HDMI スイッチャー",
       "model": "HCS-41",
@@ -1557,5 +1511,5 @@
     "YAMAHA",
     "＋追加"
   ],
-  "lastUpdated": "2025-07-17T00:14:04.106Z"
+  "lastUpdated": "2025-07-17T00:14:09.811Z"
 }
