@@ -1,0 +1,35 @@
+{
+  "id": "dev1749323034091949",
+  "name": "ネットワークハブ",
+  "model": "*****",
+  "type": "Network Hub",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "ELECOM",
+  "createdAt": "2025/06/08 05:54",
+  "updatedAt": "2025/07/17 10:40:13",
+  "outputs": [
+    {
+      "name": "",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "notes": [],
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 10:40:13",
+  "addedToCloudBy": "user-86afbf78"
+}
