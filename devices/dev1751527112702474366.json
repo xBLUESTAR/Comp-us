@@ -1,0 +1,243 @@
+{
+  "id": "dev1751527112702474366",
+  "name": "HDMI マトリックススイッチャー",
+  "model": "UHX-1616",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/07/03 16:02",
+  "updatedAt": "2025/07/17 12:53:34",
+  "outputs": [
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 1-4",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 5-8",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 9-12",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 13-26",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 1-4",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 5-8",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 9-12",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 13-16",
+      "ports": [
+        {
+          "label": "+0",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "url": "https://imagenics.co.jp/products/uhx-1616/",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "addedToCloudAt": "2025/07/17 12:53:34",
+  "addedToCloudBy": "user-86afbf78"
+}
