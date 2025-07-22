@@ -1,13 +1,13 @@
 {
   "id": "dev1752206108298679260",
-  "name": "音声コネクタテスト",
+  "name": "音声コネクタテスト ",
   "model": "AUDIO-TEST",
   "type": "DSP",
   "shape": "デフォルト",
   "ioCount": 0,
   "manufacturer": "(特型)",
   "createdAt": "2025/07/11 12:55",
-  "updatedAt": "2025/07/17 13:34:46",
+  "updatedAt": "2025/07/22 16:33:43",
   "outputs": [
     {
       "name": "EURO",
@@ -42,13 +42,13 @@
   ],
   "inputs": [
     {
-      "name": "EURO",
-      "type": "EURO",
+      "name": "miniST",
+      "type": "miniST",
       "showPortTypePresets": false
     },
     {
-      "name": "miniST",
-      "type": "miniST",
+      "name": "EURO",
+      "type": "EURO",
       "showPortTypePresets": false
     },
     {
@@ -76,7 +76,7 @@
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 13:33:18",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "9adb8ee5d2c30a55fda4d78a4a40e76a48f9c285",
+  "lastModified": "aaf81184e2e8eccb645de6bca52396146d0e891a",
   "svgWidth": 200,
   "svgHeight": 200,
   "customSvgOffset": 30,
