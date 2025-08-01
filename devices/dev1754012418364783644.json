@@ -1,0 +1,32 @@
+{
+  "id": "dev1754012418364783644",
+  "name": "HDMI信号同軸延長機・受信機",
+  "model": "DCE-U1RX",
+  "type": "RX",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/08/01 10:40:18",
+  "updatedAt": "2025/08/01 16:16:01",
+  "createdBy": "user-dfe5dacb",
+  "updatedBy": "user-dfe5dacb",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "IMG.LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://imagenics.co.jp/products/dce-u1rx/?srsltid=AfmBOoo0qlRFLqMDGIazQ8Xjra3dYA_3Zes4Ef3GFxprbMGVKwlFXTWb",
+  "notes": [],
+  "addedToCloudAt": "2025/08/01 16:16:01",
+  "addedToCloudBy": "user-dfe5dacb"
+}
