@@ -1,0 +1,68 @@
+{
+  "id": "dev1754028973016827201",
+  "name": "HDMI信号同軸延長機・受信機(FS機能付き)",
+  "model": "CRO-URS2A",
+  "type": "RX",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/08/01 15:16:13",
+  "updatedAt": "2025/08/01 16:15:51",
+  "createdBy": "user-dfe5dacb",
+  "updatedBy": "user-dfe5dacb",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "A THROU OUT",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": " AUDIO OUT",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "IMG.LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://imagenics.co.jp/products/cro-urs2a/?srsltid=AfmBOorZF06zjNRBtRCed14gYIP-g_hkjg-j_jNanBqA0uxs9h-MS0jX",
+  "notes": [],
+  "addedToCloudAt": "2025/08/01 16:15:51",
+  "addedToCloudBy": "user-dfe5dacb"
+}
