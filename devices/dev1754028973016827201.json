@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/08/01 15:16:13",
-  "updatedAt": "2025/08/01 16:15:51",
+  "updatedAt": "2025/08/01 17:32:07",
   "createdBy": "user-dfe5dacb",
   "updatedBy": "user-dfe5dacb",
   "outputs": [
@@ -17,13 +17,13 @@
       "showPortTypePresets": false
     },
     {
-      "name": "A THROU OUT",
+      "name": "A THROU",
       "type": "BNC",
       "showPortTypePresets": false
     },
     {
       "groupType": "number",
-      "groupLabel": " AUDIO OUT",
+      "groupLabel": " AUDIO",
       "ports": [
         {
           "label": "L",
@@ -64,5 +64,6 @@
   "url": "https://imagenics.co.jp/products/cro-urs2a/?srsltid=AfmBOorZF06zjNRBtRCed14gYIP-g_hkjg-j_jNanBqA0uxs9h-MS0jX",
   "notes": [],
   "addedToCloudAt": "2025/08/01 16:15:51",
-  "addedToCloudBy": "user-dfe5dacb"
+  "addedToCloudBy": "user-dfe5dacb",
+  "lastModified": "c66ae2e1aafebe8de32d3e3c90d1858e42280f76"
 }
