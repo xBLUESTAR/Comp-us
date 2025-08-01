@@ -1,0 +1,32 @@
+{
+  "id": "dev1754012817534559046",
+  "name": "HDMI信号同軸延長機・送信機",
+  "model": "DCE-U1TX",
+  "type": "TX",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/08/01 10:46:57",
+  "updatedAt": "2025/08/01 16:15:45",
+  "createdBy": "user-dfe5dacb",
+  "updatedBy": "user-dfe5dacb",
+  "outputs": [
+    {
+      "name": "IMG.LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://imagenics.co.jp/products/dce-u1tx/?srsltid=AfmBOopmVMTBOt53xX-OQmYNt_6H2px3dlZrJJ4FCi_5yEe6miUDs3g9",
+  "notes": [],
+  "addedToCloudAt": "2025/08/01 16:15:45",
+  "addedToCloudBy": "user-dfe5dacb"
+}
