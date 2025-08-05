@@ -7,9 +7,9 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/08/01 10:40:18",
-  "updatedAt": "2025/08/01 16:16:01",
+  "updatedAt": "2025/08/05 17:42:35",
   "createdBy": "user-dfe5dacb",
-  "updatedBy": "user-dfe5dacb",
+  "updatedBy": "user-86afbf78",
   "outputs": [
     {
       "name": "HDMI",
@@ -25,8 +25,9 @@
     }
   ],
   "isFavorite": false,
-  "url": "https://imagenics.co.jp/products/dce-u1rx/?srsltid=AfmBOoo0qlRFLqMDGIazQ8Xjra3dYA_3Zes4Ef3GFxprbMGVKwlFXTWb",
+  "url": "https://imagenics.co.jp/products/dce-u1rx/",
   "notes": [],
   "addedToCloudAt": "2025/08/01 16:16:01",
-  "addedToCloudBy": "user-dfe5dacb"
+  "addedToCloudBy": "user-dfe5dacb",
+  "lastModified": "f989dde97eb8cabd087bb272691d7114021204ca"
 }
