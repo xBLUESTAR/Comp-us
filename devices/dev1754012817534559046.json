@@ -7,9 +7,9 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/08/01 10:46:57",
-  "updatedAt": "2025/08/01 16:15:45",
+  "updatedAt": "2025/08/05 17:42:57",
   "createdBy": "user-dfe5dacb",
-  "updatedBy": "user-dfe5dacb",
+  "updatedBy": "user-86afbf78",
   "outputs": [
     {
       "name": "IMG.LINK",
@@ -25,8 +25,9 @@
     }
   ],
   "isFavorite": false,
-  "url": "https://imagenics.co.jp/products/dce-u1tx/?srsltid=AfmBOopmVMTBOt53xX-OQmYNt_6H2px3dlZrJJ4FCi_5yEe6miUDs3g9",
+  "url": "https://imagenics.co.jp/products/dce-u1tx/",
   "notes": [],
   "addedToCloudAt": "2025/08/01 16:15:45",
-  "addedToCloudBy": "user-dfe5dacb"
+  "addedToCloudBy": "user-dfe5dacb",
+  "lastModified": "ed42905e9a83c71fc78f1214c37c08a4b0effaa9"
 }
