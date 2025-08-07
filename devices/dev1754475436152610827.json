@@ -2,12 +2,12 @@
   "id": "dev1754475436152610827",
   "name": "タブレット",
   "model": "*****",
-  "type": "",
+  "type": "PC",
   "shape": "タブレット",
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 19:17:16",
-  "updatedAt": "2025/08/06 19:19:37",
+  "updatedAt": "2025/08/07 09:39:45",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [],
@@ -20,5 +20,6 @@
   "customSvgOffset": 50,
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:37",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "0f17080252760fa5230ca81a22ca8d8b028e4f19"
 }
