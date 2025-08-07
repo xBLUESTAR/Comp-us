@@ -2,12 +2,12 @@
   "id": "dev1754472086156491673",
   "name": "グースネックマイク",
   "model": "*****",
-  "type": "",
+  "type": "Mic",
   "shape": "グースネックマイク",
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 18:21:26",
-  "updatedAt": "2025/08/06 19:19:49",
+  "updatedAt": "2025/08/07 09:40:03",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -26,5 +26,6 @@
   "customSvgOffset": 40,
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:49",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "8336b62744eda5add8cd31e5a9d828722db7e46e"
 }
