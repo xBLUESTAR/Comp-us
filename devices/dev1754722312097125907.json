@@ -1,0 +1,18 @@
+{
+  "id": "dev1754722312097125907",
+  "name": "新しいデバイス",
+  "model": "*****",
+  "type": "",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "*****",
+  "createdAt": "2025/08/09 15:51:52",
+  "updatedAt": "2025/08/09 23:26:45",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [],
+  "inputs": [],
+  "isFavorite": false,
+  "addedToCloudAt": "2025/08/09 23:26:45",
+  "addedToCloudBy": "user-86afbf78"
+}
