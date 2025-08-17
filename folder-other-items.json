@@ -9,7 +9,7 @@
       "ioCount": 0,
       "manufacturer": "",
       "createdAt": "2025/08/17 11:17:43",
-      "updatedAt": "2025/08/17 16:16:22",
+      "updatedAt": "2025/08/17 16:21:16",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "outputs": [
@@ -25,10 +25,10 @@
         }
       ],
       "isFavorite": false,
-      "shapeSvg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"200\" height=\"40\" viewBox=\"0 0 200 40\"  id=\"_レイヤー_1\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 200 40\">\n  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->\n  <defs>\n    <style>\n      .st0 {\n        stroke-linecap: round;\n        stroke-linejoin: round;\n      }\n\n      .st0, .st1 {\n        fill: none;\n        stroke: #fff;\n      }\n\n      .st1 {\n        stroke-miterlimit: 10;\n      }\n    </style>\n  </defs>\n  <line class=\"st0\" x1=\"100\" y1=\"15\" x2=\"100\" y2=\"25\"/>\n  <line class=\"st0\" x1=\"110\" y1=\"25\" x2=\"90\" y2=\"25\"/>\n  <line class=\"st0\" x1=\"90\" y1=\"20\" x2=\"80\" y2=\"20\"/>\n  <line class=\"st0\" x1=\"120\" y1=\"20\" x2=\"110\" y2=\"20\"/>\n  <circle class=\"st1\" cx=\"90\" cy=\"20\" r=\"1.5\"/>\n  <circle class=\"st1\" cx=\"110\" cy=\"20\" r=\"1.5\"/>\n  <circle class=\"st1\" cx=\"90\" cy=\"20\" r=\"1\"/>\n  <circle class=\"st1\" cx=\"110\" cy=\"20\" r=\"1\"/>\n</svg>",
+      "shapeSvg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"200\" height=\"60\" viewBox=\"0 0 200 60\"  id=\"_レイヤー_1\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 200 60\">\n  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->\n  <defs>\n    <style>\n      .st0 {\n        stroke-linecap: round;\n        stroke-linejoin: round;\n      }\n\n      .st0, .st1 {\n        fill: none;\n        stroke: #fff;\n      }\n\n      .st1 {\n        stroke-miterlimit: 10;\n      }\n    </style>\n  </defs>\n  <line class=\"st0\" x1=\"100\" y1=\"25\" x2=\"100\" y2=\"35\"/>\n  <line class=\"st0\" x1=\"110\" y1=\"35\" x2=\"90\" y2=\"35\"/>\n  <line class=\"st0\" x1=\"90\" y1=\"30\" x2=\"80\" y2=\"30\"/>\n  <line class=\"st0\" x1=\"120\" y1=\"30\" x2=\"110\" y2=\"30\"/>\n  <circle class=\"st1\" cx=\"90\" cy=\"30\" r=\"1.5\"/>\n  <circle class=\"st1\" cx=\"110\" cy=\"30\" r=\"1.5\"/>\n  <circle class=\"st1\" cx=\"90\" cy=\"30\" r=\"1\"/>\n  <circle class=\"st1\" cx=\"110\" cy=\"30\" r=\"1\"/>\n</svg>",
       "shapeName": "リセットスイッチ",
       "svgWidth": 200,
-      "svgHeight": 40,
+      "svgHeight": 60,
       "customSvgOffset": 80,
       "notes": [],
       "flatInputs": [
@@ -47,5 +47,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-08-17T07:16:27.900Z"
+  "lastUpdated": "2025-08-17T07:21:29.590Z"
 }
