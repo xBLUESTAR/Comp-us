@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 18:37:57",
-  "updatedAt": "2025/08/07 09:39:55",
+  "updatedAt": "2025/08/17 17:14:38",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -25,6 +25,11 @@
       "name": "AUDIO",
       "type": "miniST",
       "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-A",
+      "showPortTypePresets": false
     }
   ],
   "inputs": [],
@@ -37,5 +42,5 @@
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:43",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "4839cc327a9caa253fc7c301a936b68a5a3fcdf2"
+  "lastModified": "7dd8624edecceb97b25e8449076f4898e01a23dc"
 }
