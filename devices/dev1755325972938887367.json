@@ -1,0 +1,445 @@
+{
+  "id": "dev1755325972938887367",
+  "name": "ステレオミキサー",
+  "model": "M-243",
+  "type": "",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "TOA",
+  "createdAt": "2025/08/16 15:32:52",
+  "updatedAt": "2025/08/18 19:42:08",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "STEREO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "TRS",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "ports": [
+        {
+          "label": "1",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "TRS",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "REC",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "name",
+      "groupLabel": "1",
+      "ports": [
+        {
+          "label": "LINE",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "MIC",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "groupType": "name",
+      "groupLabel": "2",
+      "ports": [
+        {
+          "label": "LINE",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "MIC",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "3",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "4",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "5",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "6",
+      "ports": [
+        {
+          "label": "L",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "RCA",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "L",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "TRS",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": " STEREO",
+      "ports": [
+        {
+          "label": "L",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "R",
+          "type": "TRS",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "ports": [
+        {
+          "label": "1",
+          "type": "TRS",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "TRS",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://www.toa.co.jp/products/detail/m243",
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "flatInputs": [
+    {
+      "label": "LINE",
+      "type": "TRS",
+      "groupType": "name",
+      "groupLabel": "1",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 45
+    },
+    {
+      "label": "MIC",
+      "type": "XLR",
+      "groupType": "name",
+      "groupLabel": "1",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "LINE",
+      "type": "TRS",
+      "groupType": "name",
+      "groupLabel": "2",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 85
+    },
+    {
+      "label": "MIC",
+      "type": "XLR",
+      "groupType": "name",
+      "groupLabel": "2",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "3",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 125
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "3",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "4",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 165
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "4",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "5",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 205
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "5",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "6",
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "6",
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 265
+    },
+    {
+      "label": "L",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "6",
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "R",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "6",
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": " STEREO",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 325
+    },
+    {
+      "label": "R",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": " STEREO",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 365
+    },
+    {
+      "label": "2",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "L",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "STEREO",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 45
+    },
+    {
+      "label": "R",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "STEREO",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 85
+    },
+    {
+      "label": "2",
+      "type": "TRS",
+      "groupType": "number",
+      "groupLabel": "MONO",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "REC",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 125
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "REC",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    }
+  ],
+  "addedToCloudAt": "2025/08/18 19:42:08",
+  "addedToCloudBy": "user-86afbf78"
+}
