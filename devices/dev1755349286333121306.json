@@ -1,0 +1,144 @@
+{
+  "id": "dev1755349286333121306",
+  "name": "システムコントローラ",
+  "model": "NX-1200",
+  "type": "Controller",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "AMX",
+  "createdAt": "2025/08/16 22:01:26",
+  "updatedAt": "2025/08/18 19:41:54",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "name": "RS232",
+      "type": "Phoenix",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS232/422/485",
+      "type": "Phoenix",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "IR",
+      "ports": [
+        {
+          "label": "1",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "name",
+      "groupLabel": "I/O",
+      "ports": [
+        {
+          "label": "GND",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "+12V",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "LAN10/100",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "AXLINK",
+      "type": "Phoenix",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-A",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-B",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "PWR",
+      "ports": [
+        {
+          "label": "＋",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "ー",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "url": "https://amxjp.net/NX-1200.html",
+  "addedToCloudAt": "2025/08/18 19:41:54",
+  "addedToCloudBy": "user-86afbf78"
+}
