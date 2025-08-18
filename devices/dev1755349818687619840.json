@@ -1,0 +1,58 @@
+{
+  "id": "dev1755349818687619840",
+  "name": "パワーサプライ",
+  "model": "PSR4.3J",
+  "type": "Power Supply",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "AMX",
+  "createdAt": "2025/08/16 22:10:18",
+  "updatedAt": "2025/08/18 19:42:02",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "name",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "＋12V",
+          "type": "Term",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "ー",
+          "type": "Term",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "L",
+          "type": "Term",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "N",
+          "type": "Term",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://amxjp.net/PSR4.3J.html",
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "addedToCloudAt": "2025/08/18 19:42:02",
+  "addedToCloudBy": "user-86afbf78"
+}
