@@ -1,0 +1,267 @@
+{
+  "id": "dev1754889271702859068",
+  "name": "スイッチャー(8x8)",
+  "model": "*****",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "*****",
+  "createdAt": "2025/08/11 14:14:31",
+  "updatedAt": "2025/08/19 19:11:11",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 0,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 1,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "3",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 2,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 3,
+      "groupLength": 8,
+      "isGroupCenter": true,
+      "groupLabelY": 105
+    },
+    {
+      "label": "5",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 4,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "6",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 5,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "7",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 6,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "8",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 7,
+      "groupLength": 8,
+      "isGroupCenter": false
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "1",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 0,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 1,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "3",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 2,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 3,
+      "groupLength": 8,
+      "isGroupCenter": true,
+      "groupLabelY": 105
+    },
+    {
+      "label": "5",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 4,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "6",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 5,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "7",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 6,
+      "groupLength": 8,
+      "isGroupCenter": false
+    },
+    {
+      "label": "8",
+      "type": "",
+      "groupType": "number",
+      "groupLabel": "",
+      "groupIndex": 7,
+      "groupLength": 8,
+      "isGroupCenter": false
+    }
+  ],
+  "addedToCloudAt": "2025/08/19 19:11:11",
+  "addedToCloudBy": "user-86afbf78"
+}
