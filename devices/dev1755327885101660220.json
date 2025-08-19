@@ -1,0 +1,76 @@
+{
+  "id": "dev1755327885101660220",
+  "name": "アンプ(4ch)",
+  "model": "*****",
+  "type": "Aamplifier",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "*****",
+  "createdAt": "2025/08/16 16:04:45",
+  "updatedAt": "2025/08/19 19:11:48",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "addedToCloudAt": "2025/08/19 19:11:48",
+  "addedToCloudBy": "user-86afbf78"
+}
