@@ -1,13 +1,13 @@
 {
   "id": "dev1758169886331487388",
-  "name": "分配器",
+  "name": "分配器(1-4)",
   "model": "*****",
   "type": "",
   "shape": "デフォルト",
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/09/18 13:31:26",
-  "updatedAt": "2025/09/18 13:37:58",
+  "updatedAt": "2025/09/18 15:04:45",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -50,5 +50,6 @@
   "svgHeight": 200,
   "customSvgOffset": 30,
   "addedToCloudAt": "2025/09/18 13:37:58",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "b004774416b3cb629f45cdd64baec78a8735c442"
 }
