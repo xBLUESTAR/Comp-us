@@ -1,0 +1,54 @@
+{
+  "id": "dev1758169886331487388",
+  "name": "分配器",
+  "model": "*****",
+  "type": "",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "*****",
+  "createdAt": "2025/09/18 13:31:26",
+  "updatedAt": "2025/09/18 13:37:58",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "",
+      "type": ""
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2025/09/18 13:37:58",
+  "addedToCloudBy": "user-86afbf78"
+}
