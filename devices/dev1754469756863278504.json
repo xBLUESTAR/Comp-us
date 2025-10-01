@@ -7,10 +7,15 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 17:42:36",
-  "updatedAt": "2025/08/06 19:19:54",
+  "updatedAt": "2025/10/01 20:07:55",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
     {
       "name": "SP",
       "type": "Term",
@@ -18,6 +23,11 @@
     }
   ],
   "inputs": [
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
     {
       "name": "SP",
       "type": "Term",
@@ -32,5 +42,6 @@
   "customSvgOffset": 60,
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:54",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "7447c49de18700e792d405e90e3e174d2c5bef1e"
 }
