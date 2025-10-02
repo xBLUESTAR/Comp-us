@@ -1,0 +1,57 @@
+{
+  "id": "dev1759301411778990139",
+  "name": "アンプ(2ch)",
+  "model": "*****",
+  "type": "Aamplifier",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "*****",
+  "createdAt": "2025/10/01 15:50:11",
+  "updatedAt": "2025/10/02 09:57:47",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "1",
+          "type": "",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "notes": [],
+  "addedToCloudAt": "2025/10/02 09:57:47",
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "5dd475bf754b66584c739f6420860766624f9664"
+}
