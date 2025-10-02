@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 18:37:57",
-  "updatedAt": "2025/08/17 17:14:38",
+  "updatedAt": "2025/10/02 12:33:23",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -42,5 +42,28 @@
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:43",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "7dd8624edecceb97b25e8449076f4898e01a23dc"
+  "lastModified": "9f54592b006ad761ce24f0e218c39d79f23cc52e",
+  "flatInputs": [],
+  "flatOutputs": [
+    {
+      "label": "HDMI",
+      "type": "HDMI",
+      "groupType": null
+    },
+    {
+      "label": "RGB",
+      "type": "VGA",
+      "groupType": null
+    },
+    {
+      "label": "AUDIO",
+      "type": "miniST",
+      "groupType": null
+    },
+    {
+      "label": "USB",
+      "type": "USB-A",
+      "groupType": null
+    }
+  ]
 }
