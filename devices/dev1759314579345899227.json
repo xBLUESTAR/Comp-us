@@ -1,0 +1,77 @@
+{
+  "id": "dev1759314579345899227",
+  "name": "赤外線2chレシーバー",
+  "model": "ATIR-R82(G)",
+  "type": "Receiver",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "audio-technica",
+  "createdAt": "2025/10/01 19:29:39",
+  "updatedAt": "2025/10/14 17:16:54",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "OUTPUT",
+      "ports": [
+        {
+          "label": "G",
+          "type": "XLR",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "H",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "MIX",
+      "type": "RCA",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "ANTENNA",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "MIX",
+      "type": "RCA",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "url": "https://www.audio-technica.co.jp/proaudio/product/ATIR-R82",
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2025/10/14 17:16:54",
+  "addedToCloudBy": "user-86afbf78"
+}
