@@ -1,0 +1,174 @@
+{
+  "id": "dev175929708983150191",
+  "name": "DSPミキサー",
+  "model": "Radius NX12×8",
+  "type": "DSP",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "Symetrix",
+  "createdAt": "2025/10/01 14:38:09",
+  "updatedAt": "2025/10/14 17:18:18",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "USB AUDIO",
+      "type": "USB-B",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "MIC/LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "11",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "12",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "Dante",
+      "ports": [
+        {
+          "label": "A",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "CONTROL",
+      "ports": [
+        {
+          "label": "A",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "url": "https://audiobrains.com/product/symetrix/radius-nx/radius-nx-12x8/",
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2025/10/14 17:18:18",
+  "addedToCloudBy": "user-86afbf78"
+}
