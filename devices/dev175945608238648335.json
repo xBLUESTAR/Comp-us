@@ -1,0 +1,103 @@
+{
+  "id": "dev175945608238648335",
+  "name": "4K HDMI 1入力4分配器",
+  "model": "CRO-UD14",
+  "type": "Splitter",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2025/10/03 10:48:02",
+  "updatedAt": "2025/10/14 17:17:56",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2025/10/14 17:17:56",
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "d62e70fc95646050ff11f243e699d703b489ea8a",
+  "url": "https://imagenics.co.jp/products/cro-ud14/",
+  "flatInputs": [
+    {
+      "label": "HDMI",
+      "type": "HDMI",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "1",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 65
+    },
+    {
+      "label": "3",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    }
+  ]
+}
