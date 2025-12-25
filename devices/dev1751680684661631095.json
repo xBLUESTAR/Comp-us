@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/07/03 16:02",
-  "updatedAt": "2025/07/17 12:56:53",
+  "updatedAt": "2025/12/25 16:34:45",
   "outputs": [
     {
       "name": "HDMI 1",
@@ -21,12 +21,12 @@
     },
     {
       "name": "IMG.LINK 1",
-      "type": "RJ45",
+      "type": "BNC",
       "showPortTypePresets": false
     },
     {
       "name": "IMG.LINK 2",
-      "type": "RJ45",
+      "type": "BNC",
       "showPortTypePresets": false
     },
     {
@@ -226,5 +226,266 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 12:56:53",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "367798c3915f2067c1caca5a994e60e80936ffc6",
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 0,
+      "groupLength": 5,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 1,
+      "groupLength": 5,
+      "isGroupCenter": false
+    },
+    {
+      "label": "3",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 2,
+      "groupLength": 5,
+      "isGroupCenter": true,
+      "groupLabelY": 75
+    },
+    {
+      "label": "4",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 3,
+      "groupLength": 5,
+      "isGroupCenter": false
+    },
+    {
+      "label": "5",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 4,
+      "groupLength": 5,
+      "isGroupCenter": false
+    },
+    {
+      "label": "6 Analog RGB",
+      "type": "VGA",
+      "groupType": null
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 165
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 205
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 3",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 245
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 3",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 4",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 285
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 4",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 5",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 325
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 5",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 6",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 365
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 6",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUX AUDIO",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 405
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUX AUDIO",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "RS-232C",
+      "type": "D-SUB",
+      "groupType": null
+    },
+    {
+      "label": "LAN",
+      "type": "RJ45",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "HDMI 1",
+      "type": "HDMI",
+      "groupType": null
+    },
+    {
+      "label": "HDMI 2",
+      "type": "HDMI",
+      "groupType": null
+    },
+    {
+      "label": "IMG.LINK 1",
+      "type": "RJ45",
+      "groupType": null
+    },
+    {
+      "label": "IMG.LINK 2",
+      "type": "RJ45",
+      "groupType": null
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 125
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 1",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "L",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 165
+    },
+    {
+      "label": "R",
+      "type": "RCA",
+      "groupType": "number",
+      "groupLabel": "AUDIO 2",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    }
+  ],
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 120,
+  "customSvgOffset": 50
 }
