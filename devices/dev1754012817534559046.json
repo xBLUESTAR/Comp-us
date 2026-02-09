@@ -1,13 +1,13 @@
 {
   "id": "dev1754012817534559046",
-  "name": "HDMI信号同軸延長機・送信機",
+  "name": "HDMI信号同軸延長機・送信機【生産完了】",
   "model": "DCE-U1TX",
   "type": "TX",
   "shape": "default",
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/08/01 10:46:57",
-  "updatedAt": "2025/08/05 17:42:57",
+  "updatedAt": "2026/02/09 18:45:40",
   "createdBy": "user-dfe5dacb",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -29,5 +29,5 @@
   "notes": [],
   "addedToCloudAt": "2025/08/01 16:15:45",
   "addedToCloudBy": "user-dfe5dacb",
-  "lastModified": "ed42905e9a83c71fc78f1214c37c08a4b0effaa9"
+  "lastModified": "7b272aff9f1bab453a6e9373b9d2c265ab7d3812"
 }
