@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 17:42:36",
-  "updatedAt": "2026/02/19 17:12:28",
+  "updatedAt": "2026/02/19 17:12:53",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -23,11 +23,6 @@
     }
   ],
   "inputs": [
-    {
-      "name": "",
-      "type": "-BLANK",
-      "showPortTypePresets": false
-    },
     {
       "name": "SP",
       "type": "Term",
