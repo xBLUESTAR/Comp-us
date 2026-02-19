@@ -7,15 +7,10 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/06 17:42:36",
-  "updatedAt": "2026/02/19 17:12:53",
+  "updatedAt": "2026/02/19 17:40:41",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
-    {
-      "name": "",
-      "type": "-BLANK",
-      "showPortTypePresets": false
-    },
     {
       "name": "SP",
       "type": "Term",
@@ -38,7 +33,7 @@
   "notes": [],
   "addedToCloudAt": "2025/08/06 19:19:54",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "f01cd690be7698faf3d21d24cdff1c531cbb1222",
+  "lastModified": "4b36ed4750f549ee494ee0379d2efad83c14716d",
   "simultaneousTerminationEnabled": true,
   "topConnectionEnabled": true
 }
