@@ -1,0 +1,51 @@
+{
+  "id": "dev177312143712372345",
+  "name": "HDMI CAT5e/6 送信器",
+  "model": "CRO-HE25TX",
+  "type": "TX",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2026/03/10 14:43:57",
+  "updatedAt": "2026/03/10 14:45:50",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "name": "Cat5e/6",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://imagenics.co.jp/products/cro-he25tx/",
+  "notes": [],
+  "addedToCloudAt": "2026/03/10 14:45:50",
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "3f8c366d9ec01bdef6156d3805336181ed90f293",
+  "favoriteAddedAt": "2026/02/09 19:00",
+  "simultaneousTerminationEnabled": false,
+  "topConnectionEnabled": false
+}
