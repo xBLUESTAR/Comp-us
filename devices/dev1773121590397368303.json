@@ -1,0 +1,51 @@
+{
+  "id": "dev1773121590397368303",
+  "name": "HDMI CAT5e/6 受信機",
+  "model": "CRO-HE25RX",
+  "type": "RX",
+  "shape": "default",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2026/03/10 14:46:30",
+  "updatedAt": "2026/03/10 14:49:08",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "Cat5e/6",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://imagenics.co.jp/products/cro-he25rx/",
+  "notes": [],
+  "addedToCloudAt": "2026/03/10 14:49:08",
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "3f8c366d9ec01bdef6156d3805336181ed90f293",
+  "favoriteAddedAt": "2026/03/10 14:45",
+  "simultaneousTerminationEnabled": false,
+  "topConnectionEnabled": false
+}
