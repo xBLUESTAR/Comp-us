@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2026/03/11 09:48:50",
-  "updatedAt": "2026/03/11 09:56:53",
+  "updatedAt": "2026/03/11 16:03:35",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -59,12 +59,12 @@
     },
     {
       "name": "ST1",
-      "type": "EURO",
+      "type": "miniST",
       "showPortTypePresets": false
     },
     {
       "name": "ST2",
-      "type": "EURO",
+      "type": "miniST",
       "showPortTypePresets": false
     },
     {
@@ -142,12 +142,12 @@
     },
     {
       "name": "ST1",
-      "type": "EURO",
+      "type": "miniST",
       "showPortTypePresets": false
     },
     {
       "name": "ST2",
-      "type": "EURO",
+      "type": "miniST",
       "showPortTypePresets": false
     },
     {
@@ -202,5 +202,6 @@
   "svgHeight": 200,
   "customSvgOffset": 30,
   "addedToCloudAt": "2026/03/11 09:56:53",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "7ccd3c0ca8cb4499f20df0eaed0888c2e745f811"
 }
