@@ -1,0 +1,97 @@
+{
+  "id": "dev1773192026746894707",
+  "name": "LCDレーザー光源プロジェクター",
+  "model": "VPL-FHZ85 ",
+  "type": "Projector",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "SONY",
+  "createdAt": "2026/03/11 10:20:26",
+  "updatedAt": "2026/03/15 19:32:17",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "name": "A RGB",
+      "type": "VGA",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "B DVI-D",
+      "type": "DVI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "AUDIO",
+      "type": "miniST",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "A RGB",
+      "type": "VGA",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "B DVI-D",
+      "type": "DVI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "C HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "D HDBaseT",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "CVBS",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "AUDIO",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-232C",
+      "type": "D-SUB",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-A",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "CONTROL S",
+      "type": "miniST",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "topConnectionEnabled": false,
+  "url": "https://www.sony.jp/vpl/products/VPL-FHZ85/?srsltid=AfmBOoq_HexNnZwf8WTAa1m8byiajFSGZU2kyJZ5Swn0r55r5c3OKRpE",
+  "simultaneousTerminationEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 120,
+  "customSvgOffset": 0,
+  "addedToCloudAt": "2026/03/15 19:32:17",
+  "addedToCloudBy": "user-86afbf78"
+}
