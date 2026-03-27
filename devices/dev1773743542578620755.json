@@ -1,0 +1,72 @@
+{
+  "id": "dev1773743542578620755",
+  "name": "メディアプレーヤー",
+  "model": "BS/HD226",
+  "type": "MediaPlayer",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "BrightSign",
+  "createdAt": "2026/03/17 19:32:22",
+  "updatedAt": "2026/03/27 18:21:50",
+  "createdBy": "user-e2e731af",
+  "updatedBy": "user-e2e731af",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "Audio",
+      "type": "miniST",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "GPIO",
+      "type": "Phoenix",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "RS-232C",
+      "type": "RS-232C",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "IR",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "MicroSD",
+      "type": "MicroSD",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "Wifi Anntena1",
+      "type": "F",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "Wifi Anntena2",
+      "type": "F",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "topConnectionEnabled": false,
+  "url": "https://jmgs.jp/products/brightsignhd6series.html",
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2026/03/27 18:21:50",
+  "addedToCloudBy": "user-e2e731af"
+}
