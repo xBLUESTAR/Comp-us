@@ -1,0 +1,227 @@
+{
+  "id": "dev1775191473260175527",
+  "name": "デジタルスマートミキサー",
+  "model": "ATDM-1012DAN",
+  "type": "Mixer",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "audio-technica",
+  "createdAt": "2026/04/03 13:44:33",
+  "updatedAt": "2026/04/03 13:49:19",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "MIC/LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "ST1",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "ST2",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-B",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "MIC/LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "ST1",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "ST2",
+      "type": "miniST",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "EXT.DEVICES",
+      "ports": [
+        {
+          "label": "A",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "MIXER",
+      "ports": [
+        {
+          "label": "A",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "name",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "name": "Dante PRIMARY",
+      "type": ""
+    },
+    {
+      "name": "Dante SECONDARY",
+      "type": ""
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "topConnectionEnabled": false,
+  "url": "https://www.audio-technica.co.jp/proaudio/product/ATDM-1012DAN",
+  "simultaneousTerminationEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2026/04/03 13:49:19",
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "71b84af9f8e0160287277081faa7dcc90a79e203"
+}
