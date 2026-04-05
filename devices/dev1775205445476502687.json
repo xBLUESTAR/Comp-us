@@ -1,0 +1,195 @@
+{
+  "id": "dev1775205445476502687",
+  "name": "インタラクティブホワイトボード",
+  "model": "V5550",
+  "type": "Display",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "MAXHUB",
+  "createdAt": "2026/04/03 17:37:25",
+  "updatedAt": "2026/04/05 17:38:14",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "AUDIO",
+      "type": "miniST",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "USB 2.0",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "USB 3.0",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "AUDIO",
+      "type": "miniST",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "topConnectionEnabled": false,
+  "displaysize": "55",
+  "url": "https://www.maxhub.com/jp/xboard_v7_series/",
+  "simultaneousTerminationEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 60,
+  "customSvgOffset": 30,
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 45
+    },
+    {
+      "label": "2",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 2.0",
+      "groupIndex": 0,
+      "groupLength": 3,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 2.0",
+      "groupIndex": 1,
+      "groupLength": 3,
+      "isGroupCenter": true,
+      "groupLabelY": 95
+    },
+    {
+      "label": "3",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 2.0",
+      "groupIndex": 2,
+      "groupLength": 3,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 3.0",
+      "groupIndex": 0,
+      "groupLength": 3,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 3.0",
+      "groupIndex": 1,
+      "groupLength": 3,
+      "isGroupCenter": true,
+      "groupLabelY": 155
+    },
+    {
+      "label": "3",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB 3.0",
+      "groupIndex": 2,
+      "groupLength": 3,
+      "isGroupCenter": false
+    },
+    {
+      "label": "AUDIO",
+      "type": "miniST",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "HDMI",
+      "type": "HDMI",
+      "groupType": null
+    },
+    {
+      "label": "AUDIO",
+      "type": "miniST",
+      "groupType": null
+    }
+  ],
+  "addedToCloudAt": "2026/04/05 17:38:14",
+  "addedToCloudBy": "user-86afbf78"
+}
