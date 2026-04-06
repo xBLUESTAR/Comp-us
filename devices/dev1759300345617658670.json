@@ -7,13 +7,13 @@
   "ioCount": 0,
   "manufacturer": "AMX",
   "createdAt": "2025/10/01 15:32:25",
-  "updatedAt": "2026/04/06 14:00:40",
+  "updatedAt": "2026/04/06 14:07:40",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
     {
       "name": "RS232/422/485",
-      "type": "Phoenix",
+      "type": "",
       "showPortTypePresets": false
     },
     {
@@ -397,7 +397,12 @@
   ],
   "flatOutputs": [
     {
-      "label": "1",
+      "label": "RS232/422/485",
+      "type": "Phoenix",
+      "groupType": null
+    },
+    {
+      "label": "2",
       "type": "",
       "groupType": "number",
       "groupLabel": "RS232",
@@ -406,28 +411,23 @@
       "isGroupCenter": false
     },
     {
-      "label": "2",
+      "label": "3",
       "type": "",
       "groupType": "number",
       "groupLabel": "RS232",
       "groupIndex": 1,
       "groupLength": 3,
       "isGroupCenter": true,
-      "groupLabelY": 55
+      "groupLabelY": 75
     },
     {
-      "label": "3",
+      "label": "4",
       "type": "",
       "groupType": "number",
       "groupLabel": "RS232",
       "groupIndex": 2,
       "groupLength": 3,
       "isGroupCenter": false
-    },
-    {
-      "label": "RS232/422/485",
-      "type": "Phoenix",
-      "groupType": null
     },
     {
       "label": "1A",
