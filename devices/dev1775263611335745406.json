@@ -7,10 +7,16 @@
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2026/04/04 09:46:51",
-  "updatedAt": "2026/04/04 10:36:01",
+  "updatedAt": "2026/04/11 13:41:53",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
-  "outputs": [],
+  "outputs": [
+    {
+      "name": "NETWORK",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
   "inputs": [],
   "isFavorite": false,
   "notes": [],
@@ -24,5 +30,6 @@
   "shapeName": "ESW-CHG4",
   "isRotated": false,
   "addedToCloudAt": "2026/04/04 10:36:01",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "84e946e0de7b565ccd8d7804223dec34986980cc"
 }
