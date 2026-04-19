@@ -7,9 +7,115 @@
   "ioCount": 0,
   "manufacturer": "YAMAHA",
   "createdAt": "2025/06/06 14:42",
-  "updatedAt": "2025/07/17 10:27:31",
+  "updatedAt": "2026/04/19 13:43:47",
   "outputs": [],
   "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "",
+      "ports": [
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "",
+          "type": "-BLANK",
+          "showPortTypePresets": false
+        }
+      ]
+    },
     {
       "name": "Dante",
       "type": "RJ45"
@@ -24,5 +130,9 @@
   "svgHeight": 620,
   "customSvgOffset": 60,
   "addedToCloudAt": "2025/07/17 10:27:31",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "a9843ea7e9a6c48f1afa3fc1529f377ca536b6db",
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "isRotated": false
 }
