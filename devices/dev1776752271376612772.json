@@ -1,0 +1,137 @@
+{
+  "id": "dev1776752271376612772",
+  "name": "デジタルマルチスイッチャー",
+  "model": "MSD-S72",
+  "type": "Switcher",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IDK",
+  "createdAt": "2026/04/21 15:17:51",
+  "updatedAt": "2026/04/21 15:26:00",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "1",
+      "ports": [
+        {
+          "label": "A",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "2",
+      "ports": [
+        {
+          "label": "A",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "B",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "UNIVERSAL",
+      "ports": [
+        {
+          "label": "6",
+          "type": "DVI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "DVI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "AUDIO",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "RS-232C",
+      "type": "RS-232C",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "LAN",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "notes": [],
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "customSvgOffset": 30,
+  "url": "https://www.idk.co.jp/products/product_detail/?model=MSD-S72",
+  "addedToCloudAt": "2026/04/21 15:26:00",
+  "addedToCloudBy": "user-86afbf78"
+}
