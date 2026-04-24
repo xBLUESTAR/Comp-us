@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2026/04/03 18:47:59",
-  "updatedAt": "2026/04/04 10:35:39",
+  "updatedAt": "2026/04/24 11:26:47",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -30,5 +30,7 @@
   "customSvgOffset": 60,
   "isRotated": false,
   "addedToCloudAt": "2026/04/04 10:35:39",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "34bea5e985353bfd7cda5b630023345eb87b4853",
+  "group": "システム"
 }
