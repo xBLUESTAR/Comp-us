@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "NEC",
   "createdAt": "2025/06/07 20:14",
-  "updatedAt": "2025/07/17 10:39:41",
+  "updatedAt": "2026/04/24 11:26:30",
   "outputs": [
     {
       "name": "DisplayPort",
@@ -61,5 +61,9 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 10:39:41",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "788bee5c033b2dbf91cb4f656b65fc93c6f5d46f",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
