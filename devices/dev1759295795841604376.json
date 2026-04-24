@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/10/01 14:16:35",
-  "updatedAt": "2025/10/20 11:37:07",
+  "updatedAt": "2026/04/24 11:25:31",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -77,7 +77,7 @@
   "customSvgOffset": 30,
   "addedToCloudAt": "2025/10/14 17:17:49",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "a3c52a34f3aa5323807401a7f45483e115073d53",
+  "lastModified": "c1ada26b2c64ddc3fa1dd0320c6be8ae5736b2a6",
   "flatInputs": [
     {
       "label": "HDMI",
@@ -124,5 +124,8 @@
       "groupLength": 2,
       "isGroupCenter": false
     }
-  ]
+  ],
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
