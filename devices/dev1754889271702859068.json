@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/11 14:14:31",
-  "updatedAt": "2025/08/19 19:11:11",
+  "updatedAt": "2026/04/24 14:34:58",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -263,5 +263,9 @@
     }
   ],
   "addedToCloudAt": "2025/08/19 19:11:11",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "e94d55c72ea93810ca8726c3759bd2fec46bafe7",
+  "simultaneousTerminationEnabled": false,
+  "group": "システム",
+  "topConnectionEnabled": false
 }
