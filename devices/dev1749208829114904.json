@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "YAMAHA",
   "createdAt": "2025/06/06 20:20",
-  "updatedAt": "2025/07/17 10:38:35",
+  "updatedAt": "2026/04/24 11:26:38",
   "outputs": [
     {
       "name": "",
@@ -59,5 +59,9 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 10:38:35",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "9a76a41d9b8df1f8b7aa7cde4daa6d97ce98ecd1",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
