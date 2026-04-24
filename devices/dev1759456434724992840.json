@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/10/03 10:53:54",
-  "updatedAt": "2025/10/14 17:18:03",
+  "updatedAt": "2026/04/24 11:26:21",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -62,6 +62,9 @@
   "customSvgOffset": 30,
   "addedToCloudAt": "2025/10/14 17:18:03",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "d62e70fc95646050ff11f243e699d703b489ea8a",
-  "url": "https://imagenics.co.jp/products/cro-ud16/"
+  "lastModified": "09b10d134cd8407ac8568080b9a654d3ad819e05",
+  "url": "https://imagenics.co.jp/products/cro-ud16/",
+  "simultaneousTerminationEnabled": false,
+  "group": "システム",
+  "topConnectionEnabled": false
 }
