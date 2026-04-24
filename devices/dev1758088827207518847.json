@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/09/17 15:00:27",
-  "updatedAt": "2025/09/18 13:38:13",
+  "updatedAt": "2026/04/24 14:45:26",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [],
@@ -42,5 +42,9 @@
   "shapeName": "スクリーン",
   "displaysize": "100",
   "addedToCloudAt": "2025/09/18 13:38:13",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "40e5c016ecff5d7a23e80ca0fbfc73f04af422a6",
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "group": "システム"
 }
