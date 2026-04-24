@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "*****",
   "createdAt": "2025/08/19 10:40:46",
-  "updatedAt": "2025/08/19 19:10:42",
+  "updatedAt": "2026/04/24 14:45:45",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [],
@@ -20,5 +20,9 @@
   "customSvgOffset": 80,
   "notes": [],
   "addedToCloudAt": "2025/08/19 19:10:42",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "d13d8377c2b891fcde7f506d198c99d3425d381d",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
