@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "YAMAHA",
   "createdAt": "2025/06/07 20:33",
-  "updatedAt": "2025/07/17 10:40:03",
+  "updatedAt": "2026/04/25 14:00:10",
   "outputs": [
     {
       "name": "Network",
@@ -24,5 +24,9 @@
   "svgHeight": 140,
   "customSvgOffset": 30,
   "addedToCloudAt": "2025/07/17 10:40:03",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "6187da14e6ed8e6fa30b6ef0dde4b89c7dcf04a7",
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "group": "システム"
 }
