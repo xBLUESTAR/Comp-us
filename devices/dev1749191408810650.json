@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "Lumens",
   "createdAt": "2025/06/06 15:30",
-  "updatedAt": "2025/07/17 10:38:26",
+  "updatedAt": "2026/04/25 13:12:46",
   "outputs": [
     {
       "name": "HDMI",
@@ -33,5 +33,10 @@
   "svgHeight": 100,
   "customSvgOffset": 50,
   "addedToCloudAt": "2025/07/17 10:38:26",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "19e17869e4f71e8f3b15df6dd2304dc396de5079",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "url": "https://www.mylumens.com/jp/Products_detail/1126/VC-A53-Full-HD-PTZ-IP-Camera",
+  "simultaneousTerminationEnabled": false
 }
