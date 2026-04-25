@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2026/03/11 09:29:06",
-  "updatedAt": "2026/04/04 10:34:08",
+  "updatedAt": "2026/04/25 14:28:08",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -46,5 +46,7 @@
   "shapeName": "ATCP-W01R",
   "isRotated": false,
   "addedToCloudAt": "2026/03/15 19:33:21",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "3acbdd93fc01b8d881c2de47bac514ea2d4acbc0",
+  "group": "システム"
 }
