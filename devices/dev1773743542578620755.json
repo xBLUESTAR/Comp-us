@@ -7,9 +7,9 @@
   "ioCount": 0,
   "manufacturer": "BrightSign",
   "createdAt": "2026/03/17 19:32:22",
-  "updatedAt": "2026/03/27 18:21:50",
+  "updatedAt": "2026/04/25 14:29:14",
   "createdBy": "user-e2e731af",
-  "updatedBy": "user-e2e731af",
+  "updatedBy": "user-86afbf78",
   "outputs": [
     {
       "name": "HDMI",
@@ -68,5 +68,7 @@
   "svgHeight": 200,
   "customSvgOffset": 30,
   "addedToCloudAt": "2026/03/27 18:21:50",
-  "addedToCloudBy": "user-e2e731af"
+  "addedToCloudBy": "user-e2e731af",
+  "lastModified": "52463247e0f65c557041282c1d8a9a6033442cb3",
+  "group": "システム"
 }
