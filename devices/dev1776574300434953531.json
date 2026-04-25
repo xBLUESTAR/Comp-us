@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "YAMAHA",
   "createdAt": "2026/04/19 13:51:40",
-  "updatedAt": "2026/04/19 13:52:39",
+  "updatedAt": "2026/04/25 15:03:53",
   "outputs": [],
   "inputs": [
     {
@@ -132,7 +132,7 @@
   "customSvgOffset": 60,
   "addedToCloudAt": "2026/04/19 13:52:39",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "a9843ea7e9a6c48f1afa3fc1529f377ca536b6db",
+  "lastModified": "e07a23e2c7356fa7b54137d0ba4e75d948c9f769",
   "topConnectionEnabled": false,
   "simultaneousTerminationEnabled": false,
   "isRotated": false,
@@ -325,5 +325,6 @@
       "groupType": null
     }
   ],
-  "flatOutputs": []
+  "flatOutputs": [],
+  "group": "システム"
 }
