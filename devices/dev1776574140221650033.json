@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "YAMAHA",
   "createdAt": "2026/04/19 13:49:00",
-  "updatedAt": "2026/04/19 13:52:45",
+  "updatedAt": "2026/04/25 15:03:46",
   "outputs": [],
   "inputs": [
     {
@@ -132,9 +132,10 @@
   "customSvgOffset": 60,
   "addedToCloudAt": "2026/04/19 13:52:45",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "a9843ea7e9a6c48f1afa3fc1529f377ca536b6db",
+  "lastModified": "2dc1de7b9ebedd35be60224cc9656bfae829e268",
   "topConnectionEnabled": false,
   "simultaneousTerminationEnabled": false,
   "isRotated": false,
-  "url": "https://jp.yamaha.com/products/proaudio/speakers/vxl/index.html"
+  "url": "https://jp.yamaha.com/products/proaudio/speakers/vxl/index.html",
+  "group": "システム"
 }
