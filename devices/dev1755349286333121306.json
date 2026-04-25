@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "AMX",
   "createdAt": "2025/08/16 22:01:26",
-  "updatedAt": "2026/04/09 07:13:57",
+  "updatedAt": "2026/04/25 14:09:05",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -141,7 +141,8 @@
   "url": "https://amxjp.net/NX-1200.html",
   "addedToCloudAt": "2025/08/18 19:41:54",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "373ebf4ae8e4460b88d820d0ae1336848b892a43",
+  "lastModified": "9115f31bb5402c1f8c84e75ff2c9fa039c4f9f96",
   "simultaneousTerminationEnabled": false,
-  "topConnectionEnabled": false
+  "topConnectionEnabled": false,
+  "group": "システム"
 }
