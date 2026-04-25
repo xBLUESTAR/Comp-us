@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/07/03 16:02",
-  "updatedAt": "2025/07/17 12:56:32",
+  "updatedAt": "2026/04/25 13:53:49",
   "outputs": [
     {
       "name": "HDMI 1",
@@ -226,5 +226,13 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 12:56:32",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "178466b625504a5e66b06924092f8b2b2a5024fc",
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "group": "システム",
+  "topConnectionEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 100,
+  "customSvgOffset": 48
 }
