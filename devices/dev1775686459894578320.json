@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "AMX",
   "createdAt": "2026/04/09 07:14:19",
-  "updatedAt": "2026/04/09 07:42:38",
+  "updatedAt": "2026/04/25 14:09:21",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -233,7 +233,7 @@
   "url": "https://amxjp.net/NX-2200.html",
   "addedToCloudAt": "2026/04/09 07:42:38",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "3ea7c35bd7a235176e0d6cf5fc1c7b26feebb2ea",
+  "lastModified": "1a8f08022f44d420b4605c5a1c3850619fa02dbf",
   "flatInputs": [
     {
       "label": "LAN10/100",
@@ -500,5 +500,6 @@
     }
   ],
   "topConnectionEnabled": false,
-  "simultaneousTerminationEnabled": false
+  "simultaneousTerminationEnabled": false,
+  "group": "システム"
 }
