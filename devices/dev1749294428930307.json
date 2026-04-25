@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "ScreenBeam",
   "createdAt": "2025/06/07 20:07",
-  "updatedAt": "2025/07/17 10:39:36",
+  "updatedAt": "2026/04/25 14:41:02",
   "outputs": [
     {
       "name": "HDMI",
@@ -47,5 +47,9 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 10:39:36",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "617657124ef18d7d89f8f93424cfd777c5fb0743",
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "group": "システム"
 }
