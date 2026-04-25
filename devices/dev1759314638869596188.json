@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2025/10/01 19:30:38",
-  "updatedAt": "2026/03/11 09:39:15",
+  "updatedAt": "2026/04/25 14:52:10",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -166,7 +166,8 @@
   ],
   "addedToCloudAt": "2025/10/14 17:17:01",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "ccafec48274944f84a0f1121f0b8c4d7746e655d",
+  "lastModified": "0722a68170ec81162694e8ce3a62523b1d9f9f6d",
   "topConnectionEnabled": false,
-  "simultaneousTerminationEnabled": false
+  "simultaneousTerminationEnabled": false,
+  "group": "システム"
 }
