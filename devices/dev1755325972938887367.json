@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "TOA",
   "createdAt": "2025/08/16 15:32:52",
-  "updatedAt": "2025/08/18 19:42:08",
+  "updatedAt": "2026/04/25 14:10:18",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -441,5 +441,9 @@
     }
   ],
   "addedToCloudAt": "2025/08/18 19:42:08",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "f0afbcc51b61a348122378084995252c0c531024",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
