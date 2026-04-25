@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2025/07/07 12:55",
-  "updatedAt": "2025/07/17 13:31:29",
+  "updatedAt": "2026/04/25 13:44:20",
   "outputs": [
     {
       "groupType": "number",
@@ -108,5 +108,13 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 13:31:29",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "6a0bc9f4e5c77a47f56cd7f2ea20da51367a786d",
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "group": "システム",
+  "topConnectionEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 100,
+  "customSvgOffset": 50
 }
