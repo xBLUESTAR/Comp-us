@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "ScreenBeam",
   "createdAt": "2025/06/07 20:03",
-  "updatedAt": "2025/07/17 10:39:26",
+  "updatedAt": "2026/04/25 13:49:59",
   "outputs": [
     {
       "groupType": "number",
@@ -61,5 +61,9 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 10:39:26",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "8501bec3fdb79f34f9d87041b3b33f829e8928d9",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
