@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "Lumens",
   "createdAt": "2025/06/08 04:07",
-  "updatedAt": "2025/07/17 10:40:19",
+  "updatedAt": "2026/04/25 13:50:50",
   "outputs": [
     {
       "name": "HDMI",
@@ -49,5 +49,9 @@
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "addedToCloudAt": "2025/07/17 10:40:19",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "lastModified": "4c7666babad963b735e4e3a968228b970b47e889",
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "simultaneousTerminationEnabled": false
 }
