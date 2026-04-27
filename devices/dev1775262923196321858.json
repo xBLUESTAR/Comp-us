@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "MAXHUB",
   "createdAt": "2026/04/04 09:35:23",
-  "updatedAt": "2026/04/05 17:38:20",
+  "updatedAt": "2026/04/27 16:05:43",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "outputs": [
@@ -110,5 +110,6 @@
     }
   ],
   "addedToCloudAt": "2026/04/05 17:38:20",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "group": "システム"
 }
