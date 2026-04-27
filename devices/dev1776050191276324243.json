@@ -1,0 +1,702 @@
+{
+  "id": "dev1776050191276324243",
+  "name": "LEDコントローラー",
+  "model": "VX2000 Pro",
+  "type": "Converter",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "NOVASTAR",
+  "createdAt": "2026/04/13 12:16:31",
+  "updatedAt": "2026/04/27 16:04:26",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "ports": [
+        {
+          "label": "1",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "9",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "10",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "11",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "12",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "13",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "14",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "15",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "16",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "17",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "18",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "19",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "20",
+          "type": "RJ45",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "OPT",
+      "ports": [
+        {
+          "label": "1",
+          "type": "SFP",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "SFP",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "SFP",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "SFP",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "DHMI 1.3",
+      "type": "HDMI",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "12G-SDI LOOP",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 2.0",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "HDMI 1.3",
+      "ports": [
+        {
+          "label": "1",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "HDMI",
+          "showPortTypePresets": false
+        }
+      ]
+    },
+    {
+      "name": "DP 1.2",
+      "type": "DP",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "12G-SDI",
+      "type": "BNC",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB 3.0",
+      "type": "USB-A",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "USB",
+      "type": "USB-B",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "Ethernet",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "url": "https://www.novastar.tech/product/detail.html?catid=3&id=34",
+  "notes": [],
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "customSvgOffset": 30,
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 2.0",
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 45
+    },
+    {
+      "label": "2",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 2.0",
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 1.3",
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 1.3",
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 105
+    },
+    {
+      "label": "3",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 1.3",
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "HDMI",
+      "groupType": "number",
+      "groupLabel": "HDMI 1.3",
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "DP 1.2",
+      "type": "DP",
+      "groupType": null
+    },
+    {
+      "label": "12G-SDI",
+      "type": "BNC",
+      "groupType": null
+    },
+    {
+      "label": "USB 3.0",
+      "type": "USB-A",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "USB",
+      "type": "USB-B",
+      "groupType": null
+    },
+    {
+      "label": "Ethernet",
+      "type": "RJ45",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "1",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 0,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 1,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "3",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 2,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 3,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "5",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 4,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "6",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 5,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "7",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 6,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "8",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 7,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "9",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 8,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "10",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 9,
+      "groupLength": 20,
+      "isGroupCenter": true,
+      "groupLabelY": 225
+    },
+    {
+      "label": "11",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 10,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "12",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 11,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "13",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 12,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "14",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 13,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "15",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 14,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "16",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 15,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "17",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 16,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "18",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 17,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "19",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 18,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "20",
+      "type": "RJ45",
+      "groupType": "number",
+      "groupLabel": "Ethernet",
+      "groupIndex": 19,
+      "groupLength": 20,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "SFP",
+      "groupType": "number",
+      "groupLabel": "OPT",
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "SFP",
+      "groupType": "number",
+      "groupLabel": "OPT",
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 465
+    },
+    {
+      "label": "3",
+      "type": "SFP",
+      "groupType": "number",
+      "groupLabel": "OPT",
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "SFP",
+      "groupType": "number",
+      "groupLabel": "OPT",
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "DHMI 1.3",
+      "type": "HDMI",
+      "groupType": null
+    },
+    {
+      "label": "12G-SDI LOOP",
+      "type": "BNC",
+      "groupType": null
+    }
+  ],
+  "tag": "",
+  "group": "システム",
+  "addedToCloudAt": "2026/04/27 16:04:26",
+  "addedToCloudBy": "user-86afbf78"
+}
