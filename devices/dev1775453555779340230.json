@@ -1,0 +1,113 @@
+{
+  "id": "dev1775453555779340230",
+  "name": "リレーコントローラ",
+  "model": "AXB-REL8",
+  "type": "",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "AMX",
+  "createdAt": "2026/04/06 14:32:35",
+  "updatedAt": "2026/04/27 16:04:40",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "RELAYS",
+      "ports": [
+        {
+          "label": "1",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "Phoenix",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "AX-LINK",
+      "type": "",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "topConnectionEnabled": false,
+  "simultaneousTerminationEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 100,
+  "customSvgOffset": 30,
+  "group": "システム",
+  "addedToCloudAt": "2026/04/27 16:04:40",
+  "addedToCloudBy": "user-86afbf78"
+}
