@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "SONY",
   "createdAt": "2026/05/07 19:01:30",
-  "updatedAt": "2026/05/07 19:02:53",
+  "updatedAt": "2026/05/07 19:18:02",
   "createdBy": "user-86afbf78",
   "updatedBy": "user-86afbf78",
   "group": "イベント",
@@ -26,5 +26,6 @@
   "url": "https://www.sony.jp/xdcam/products/PXW-Z280/?srsltid=AfmBOorPb6Hf2P8U4ZdxbumBYKmhzGBj8ZTnhM0uNbXoOwU0ACFzSzD0",
   "addedToCloudAt": "2026/05/07 19:02:53",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "35f2eaee835be76d0b65671ed264ef9829545d2a"
+  "lastModified": "214aa2c3b647c7920f1e596b64afe56e62e1255b",
+  "weight": 3
 }
