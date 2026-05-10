@@ -3,13 +3,13 @@
     {
       "id": "dev1755441221807337174",
       "name": "TV共聴",
-      "model": "",
+      "model": "*****",
       "type": "Outlet",
       "shape": "TV共聴",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "*****",
       "createdAt": "2025/08/17 23:33:41",
-      "updatedAt": "2025/08/17 23:38:41",
+      "updatedAt": "2026/05/10 19:47:00",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "outputs": [
@@ -26,18 +26,20 @@
       "svgWidth": 200,
       "svgHeight": 100,
       "customSvgOffset": 60,
-      "notes": []
+      "notes": [],
+      "topConnectionEnabled": false,
+      "simultaneousTerminationEnabled": false
     },
     {
       "id": "dev175543848629066334",
       "name": "AC100V",
-      "model": "",
+      "model": "*****",
       "type": "Outlet",
       "shape": "コンセント",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "*****",
       "createdAt": "2025/08/17 22:48:06",
-      "updatedAt": "2025/08/17 23:38:05",
+      "updatedAt": "2026/05/10 19:47:09",
       "outputs": [
         {
           "name": "AC100V",
@@ -56,18 +58,20 @@
       "updatedBy": "user-86afbf78",
       "addedToCloudAt": "2025/07/17 10:40:23",
       "addedToCloudBy": "user-86afbf78",
-      "lastModified": "37ef6614374bbd593801f4e4a245ea47c4f27d0a"
+      "lastModified": "37ef6614374bbd593801f4e4a245ea47c4f27d0a",
+      "simultaneousTerminationEnabled": false,
+      "topConnectionEnabled": false
     },
     {
       "id": "dev1755438080394275415",
       "name": "UHF分波器",
-      "model": "",
+      "model": "*****",
       "type": "Distributor",
       "shape": "分波器",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "*****",
       "createdAt": "2025/08/17 22:41:20",
-      "updatedAt": "2025/08/17 22:51:02",
+      "updatedAt": "2026/05/10 19:50:08",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "outputs": [
@@ -100,18 +104,20 @@
       "svgWidth": 200,
       "svgHeight": 80,
       "customSvgOffset": 70,
-      "notes": []
+      "notes": [],
+      "topConnectionEnabled": false,
+      "simultaneousTerminationEnabled": false
     },
     {
       "id": "dev1755397063190990171",
       "name": "リセットスイッチ",
-      "model": "",
+      "model": "(特型)",
       "type": "Other",
       "shape": "リセットスイッチ",
       "ioCount": 0,
-      "manufacturer": "",
+      "manufacturer": "AVC",
       "createdAt": "2025/08/17 11:17:43",
-      "updatedAt": "2025/08/17 22:50:01",
+      "updatedAt": "2026/05/10 19:49:34",
       "createdBy": "user-86afbf78",
       "updatedBy": "user-86afbf78",
       "outputs": [
@@ -146,8 +152,10 @@
           "type": "",
           "groupType": null
         }
-      ]
+      ],
+      "topConnectionEnabled": false,
+      "simultaneousTerminationEnabled": false
     }
   ],
-  "lastUpdated": "2025-08-17T14:40:31.811Z"
+  "lastUpdated": "2026-05-10T10:50:12.814Z"
 }
