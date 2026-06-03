@@ -3,12 +3,12 @@
   "name": "新しいフォルダ1-1",
   "type": "folder",
   "parent": "cloud",
-  "parentFolderId": "folder1780480076969239754",
+  "parentFolderId": null,
   "deviceIds": [],
   "expanded": true,
   "createdAt": "2026/06/03 18:46:19",
-  "updatedAt": "2026/06/03 18:49:51",
+  "updatedAt": "2026/06/03 18:50:08",
   "createdBy": "user-b3fec5e7",
-  "updatedBy": "user-b3fec5e7",
+  "updatedBy": "user-86afbf78",
   "isShared": true
 }
