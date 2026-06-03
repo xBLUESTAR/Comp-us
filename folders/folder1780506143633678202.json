@@ -1,0 +1,14 @@
+{
+  "id": "folder1780506143633678202",
+  "name": "TEST1-1-1",
+  "type": "folder",
+  "parent": "cloud",
+  "parentFolderId": "folder1780506143633723295",
+  "deviceIds": [],
+  "expanded": true,
+  "createdAt": "2026/06/04 02:01:40",
+  "updatedAt": "2026/06/04 02:02:23",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "isShared": true
+}
