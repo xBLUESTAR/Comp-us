@@ -1,7 +1,9 @@
 {
   "activatedAt": "2026/06/03 02:27:30",
-  "lastUsedAt": "2026/06/26 22:34:37",
+  "lastUsedAt": "2026/06/26 22:41:53",
   "appVersion": "1.1.20",
-  "isAppAdmin": false,
-  "isDataAdmin": false
+  "isAppAdmin": true,
+  "isDataAdmin": false,
+  "lastUpdatedAt": "2026/06/26 22:41:53",
+  "lastUpdatedBy": "admin-panel"
 }
