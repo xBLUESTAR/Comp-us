@@ -1,0 +1,257 @@
+{
+  "id": "dev1781325502166693806",
+  "name": "4chパワーアンプ",
+  "model": "Kommander-KA34",
+  "type": "Amplifier",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "Karray",
+  "createdAt": "2026/06/13 13:38:22",
+  "updatedAt": "2026/06/26 19:40:38",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "group": "システム",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ],
+      "groupSpan": 2
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "ports": [
+        {
+          "label": "1",
+          "type": "XLR",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "XLR",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "XLR",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "XLR",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false,
+      "groupSpan": 2
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "USB",
+      "ports": [
+        {
+          "label": "1",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "USB-A",
+          "showPortTypePresets": false
+        }
+      ],
+      "groupSpan": 2
+    },
+    {
+      "name": "Erthenet",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "url": "https://audiobrains.com/product/k-array/kommander-series/kommander-ka34/",
+  "topConnectionEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "XLR",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "XLR",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 65
+    },
+    {
+      "label": "3",
+      "type": "XLR",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "XLR",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "1",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB",
+      "groupSpan": 2,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB",
+      "groupSpan": 2,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 165
+    },
+    {
+      "label": "3",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB",
+      "groupSpan": 2,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "USB-A",
+      "groupType": "number",
+      "groupLabel": "USB",
+      "groupSpan": 2,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "Erthenet",
+      "type": "RJ45",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "1",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 65
+    },
+    {
+      "label": "3",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LINE",
+      "groupSpan": 2,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    }
+  ],
+  "addedToCloudAt": "2026/06/26 19:40:38",
+  "addedToCloudBy": "user-86afbf78"
+}
