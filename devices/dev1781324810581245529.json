@@ -1,0 +1,315 @@
+{
+  "id": "dev1781324810581245529",
+  "name": "DSPミキサー",
+  "model": "Prism 4×4",
+  "type": "DSP",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "Symetrix",
+  "createdAt": "2026/06/13 13:26:50",
+  "updatedAt": "2026/06/26 19:40:31",
+  "createdBy": "user-86afbf78",
+  "updatedBy": "user-86afbf78",
+  "group": "システム",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ],
+      "groupSpan": 1
+    },
+    {
+      "groupType": "number",
+      "groupSpan": 1,
+      "groupLabel": "LOGIC",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ],
+      "showGroupTypePresets": false,
+      "groupSpan": 1
+    },
+    {
+      "groupType": "number",
+      "groupLabel": "CONTROL",
+      "ports": [
+        {
+          "label": "1",
+          "type": "EURO",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "EURO",
+          "showPortTypePresets": false
+        }
+      ],
+      "groupSpan": 1
+    },
+    {
+      "name": "",
+      "type": "-BLANK",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "ARC",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "DANTE",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    },
+    {
+      "name": "ETHERNET",
+      "type": "RJ45",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "url": "https://audiobrains.com/product/symetrix/prism/prism-4x4/",
+  "topConnectionEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "flatInputs": [
+    {
+      "label": "1",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 65
+    },
+    {
+      "label": "3",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "CONTROL",
+      "groupSpan": 1,
+      "groupIndex": 0,
+      "groupLength": 2,
+      "isGroupCenter": true,
+      "groupLabelY": 125
+    },
+    {
+      "label": "2",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "CONTROL",
+      "groupSpan": 1,
+      "groupIndex": 1,
+      "groupLength": 2,
+      "isGroupCenter": false
+    },
+    {
+      "label": "",
+      "type": "-BLANK",
+      "groupType": null
+    },
+    {
+      "label": "ARC",
+      "type": "RJ45",
+      "groupType": null
+    },
+    {
+      "label": "DANTE",
+      "type": "RJ45",
+      "groupType": null
+    },
+    {
+      "label": "ETHERNET",
+      "type": "RJ45",
+      "groupType": null
+    }
+  ],
+  "flatOutputs": [
+    {
+      "label": "1",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 65
+    },
+    {
+      "label": "3",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "ANALOG",
+      "groupSpan": 1,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "1",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LOGIC",
+      "groupSpan": 1,
+      "groupIndex": 0,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "2",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LOGIC",
+      "groupSpan": 1,
+      "groupIndex": 1,
+      "groupLength": 4,
+      "isGroupCenter": true,
+      "groupLabelY": 145
+    },
+    {
+      "label": "3",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LOGIC",
+      "groupSpan": 1,
+      "groupIndex": 2,
+      "groupLength": 4,
+      "isGroupCenter": false
+    },
+    {
+      "label": "4",
+      "type": "EURO",
+      "groupType": "number",
+      "groupLabel": "LOGIC",
+      "groupSpan": 1,
+      "groupIndex": 3,
+      "groupLength": 4,
+      "isGroupCenter": false
+    }
+  ],
+  "addedToCloudAt": "2026/06/26 19:40:31",
+  "addedToCloudBy": "user-86afbf78"
+}
