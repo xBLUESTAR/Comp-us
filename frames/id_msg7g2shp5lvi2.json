@@ -1311,13 +1311,14 @@
       "renderScaleAvg": 0.2672763347763348
     }
   ],
-  "dirty": false,
+  "dirty": true,
   "createdAt": "2026-08-05T14:51:21.761Z",
-  "updatedAt": "2026/08/06 11:51:26",
+  "updatedAt": "2026/08/06 16:24:51",
   "paperPreset": "A3-L",
   "storageScope": "cloud",
   "updatedBy": "user-86afbf78",
   "createdBy": "user-86afbf78",
   "addedToCloudAt": "2026/08/06 11:51:26",
-  "addedToCloudBy": "user-86afbf78"
+  "addedToCloudBy": "user-86afbf78",
+  "group": "システム"
 }
