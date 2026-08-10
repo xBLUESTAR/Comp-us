@@ -1311,9 +1311,9 @@
       "renderScaleAvg": 0.2672763347763348
     }
   ],
-  "dirty": true,
+  "dirty": false,
   "createdAt": "2026-08-05T14:51:21.761Z",
-  "updatedAt": "2026/08/06 16:27:30",
+  "updatedAt": "2026/08/10 11:07:52",
   "paperPreset": "A3-L",
   "storageScope": "cloud",
   "updatedBy": "user-86afbf78",
