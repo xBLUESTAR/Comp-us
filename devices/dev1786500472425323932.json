@@ -1,0 +1,80 @@
+{
+  "id": "dev1786500472425323932",
+  "name": "IMG.LINK 8分配器",
+  "model": "CRO-ID18A",
+  "type": "Distributor",
+  "shape": "デフォルト",
+  "ioCount": 0,
+  "manufacturer": "IMAGENICS",
+  "createdAt": "2026/08/12 11:07:52",
+  "updatedAt": "2026/08/12 11:10:42",
+  "createdBy": "user-d1e91155",
+  "updatedBy": "user-d1e91155",
+  "group": "システム",
+  "outputs": [
+    {
+      "groupType": "number",
+      "groupSpan": 1,
+      "groupLabel": "IMG.LINK",
+      "ports": [
+        {
+          "label": "1",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "2",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "3",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "4",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "5",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "6",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "7",
+          "type": "BNC",
+          "showPortTypePresets": false
+        },
+        {
+          "label": "8",
+          "type": "BNC",
+          "showPortTypePresets": false
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "IMG.LINK",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "isFavorite": false,
+  "notes": [],
+  "simultaneousTerminationEnabled": false,
+  "url": "https://imagenics.co.jp/products/cro-id18a/?srsltid=AfmBOortaLuVCLpakHNdeKlk3wvX6G8z9JTLEijBZLGU4QwUpzuV9SuS",
+  "topConnectionEnabled": false,
+  "svgWidth": 200,
+  "svgHeight": 200,
+  "customSvgOffset": 30,
+  "addedToCloudAt": "2026/08/12 11:10:42",
+  "addedToCloudBy": "user-d1e91155"
+}
