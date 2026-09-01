@@ -1,0 +1,54 @@
+{
+  "id": "dev1788229398908880678",
+  "name": "広域受光ユニット",
+  "model": "ATIR-A510",
+  "type": "Antenna",
+  "shape": "ATIR-A510",
+  "ioCount": 0,
+  "manufacturer": "audio-technica",
+  "createdAt": "2026/09/01 11:23:18",
+  "updatedAt": "2026/09/01 13:37:48",
+  "createdBy": "user-d1e91155",
+  "updatedBy": "user-d1e91155",
+  "outputs": [
+    {
+      "name": "ANTENNA",
+      "type": "BNC",
+      "showPortTypePresets": false
+    }
+  ],
+  "inputs": [],
+  "isFavorite": false,
+  "notes": [],
+  "url": "https://www.audio-technica.co.jp/proaudio/product/ATIR-A510",
+  "shapeSvg": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->\n<svg width=\"200\" height=\"80\" viewBox=\"0 0 200 80\"  version=\"1.0\" id=\"_レイヤー_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\"\n\t y=\"0px\" viewBox=\"0 0 200 80\" style=\"enable-background:new 0 0 200 80;\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}\n\t.st1{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}\n</style>\n<g>\n\t<path class=\"st0\" d=\"M125.51,76.85c6.26,0,11.34-5.08,11.34-11.34V14.49c0-1.62-0.31-3.09-0.96-4.57\n\t\tc-1.81-4.11-5.88-6.76-10.38-6.76H74.48c-6.26,0-11.34,5.08-11.34,11.34v51.02c0,6.26,5.08,11.34,11.34,11.34H125.51z\"/>\n\t<path class=\"st1\" d=\"M125.51,71.18c3.13,0,5.67-2.54,5.67-5.67V14.49c0-3.13-2.54-5.67-5.67-5.67H74.48\n\t\tc-3.13,0-5.67,2.54-5.67,5.67v51.02c0,3.13,2.54,5.67,5.67,5.67H125.51z\"/>\n\t<polygon class=\"st1\" points=\"78.93,19.34 77.32,14.77 75.7,19.34 \t\"/>\n\t<polygon class=\"st1\" points=\"78.76,19.22 77.4,19.22 78.08,17.29 \t\"/>\n\t<polygon class=\"st1\" points=\"77.27,19.22 75.87,19.22 77.32,15.13 78.02,17.11 \t\"/>\n\t<path class=\"st1\" d=\"M80.03,17.32c0-1.5-1.22-2.72-2.72-2.72c-1.5,0-2.72,1.22-2.72,2.72s1.22,2.72,2.72,2.72\n\t\tC78.82,20.04,80.03,18.82,80.03,17.32z\"/>\n\t<circle class=\"st1\" cx=\"77.32\" cy=\"17.32\" r=\"2.83\"/>\n</g>\n</svg>\n",
+  "shapeName": "ATIR-A510",
+  "svgWidth": 200,
+  "svgHeight": 80,
+  "customSvgOffset": 50,
+  "flatInputs": [],
+  "flatOutputs": [
+    {
+      "label": "ANTENNA",
+      "type": "BNC",
+      "groupType": null
+    },
+    {
+      "label": "ANTENNA",
+      "type": "BNC",
+      "groupType": null
+    },
+    {
+      "label": "ANTENNA",
+      "type": "BNC",
+      "groupType": null
+    }
+  ],
+  "addedToCloudAt": "2026/09/01 13:37:48",
+  "addedToCloudBy": "user-d1e91155",
+  "lastModified": "c0ced1a36b3eb98ad73a356462bcd527cf2b3c4d",
+  "simultaneousTerminationEnabled": false,
+  "topConnectionEnabled": false,
+  "group": "システム",
+  "isRotated": false
+}
