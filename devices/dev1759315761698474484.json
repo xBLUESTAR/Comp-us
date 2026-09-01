@@ -2,14 +2,14 @@
   "id": "dev1759315761698474484",
   "name": "赤外線受光ユニット",
   "model": "ATIR-A40",
-  "type": "",
+  "type": "Antenna",
   "shape": "ATIR-A40",
   "ioCount": 0,
   "manufacturer": "audio-technica",
   "createdAt": "2025/10/01 19:49:21",
-  "updatedAt": "2026/04/25 14:47:30",
+  "updatedAt": "2026/09/01 11:34:38",
   "createdBy": "user-86afbf78",
-  "updatedBy": "user-86afbf78",
+  "updatedBy": "user-d1e91155",
   "outputs": [
     {
       "name": "ANTENNA",
@@ -56,7 +56,7 @@
   ],
   "addedToCloudAt": "2025/10/14 17:16:37",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "06cda243fe79ed3ed1352d6ceaae7370118b2f5f",
+  "lastModified": "c9733590cb8ac60c1821a761db3a80a8f70a6822",
   "topConnectionEnabled": false,
   "group": "システム",
   "simultaneousTerminationEnabled": false
