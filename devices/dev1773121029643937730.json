@@ -7,7 +7,7 @@
   "ioCount": 0,
   "manufacturer": "IMAGENICS",
   "createdAt": "2026/03/10 14:37:09",
-  "updatedAt": "2026/09/27 17:15:12",
+  "updatedAt": "2026/09/27 17:15:47",
   "outputs": [
     {
       "groupType": "number",
@@ -111,10 +111,6 @@
       "name": "LAN",
       "type": "RJ45",
       "showPortTypePresets": false
-    },
-    {
-      "name": "LAN2",
-      "type": ""
     }
   ],
   "url": "https://imagenics.co.jp/products/us-84rs/",
@@ -122,7 +118,7 @@
   "updatedBy": "user-d1e91155",
   "addedToCloudAt": "2026/03/10 14:46:08",
   "addedToCloudBy": "user-86afbf78",
-  "lastModified": "a80837b509e8a52655d6cd6f0d38c8475e326927",
+  "lastModified": "302ccccde345eefcb3bfe201509f23838715fffd",
   "notes": [],
   "topConnectionEnabled": false,
   "simultaneousTerminationEnabled": false,
